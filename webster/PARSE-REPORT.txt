@@ -1,0 +1,1333 @@
+Webster's 1913 parse report
+headwords found:   113392
+parsed cleanly:    112908 (99.57%)
+failed (left out): 484
+warnings (kept):   82 with irregular sense numbering, 741 with paragraphs the parser did not recognise
+
+Failure reasons:
+     286  no sense with text (no numbered sense or Defn: paragraph)
+     187  headline form … does not match the headword
+       1  headline form …d8A*nu"bis' does not match the headword
+       1  headline form "To authorize one's self" does not match the headword
+       1  headline form …s salt` or; Glau"ber\… does not match the headword
+       1  headline form …ouvre"; pl. Hors d\… does not match the headword
+       1  headline form …-lan`tern' does not match the headword
+       1  headline form "Knight service. Also Knight's service" does not match the headword
+       1  headline form …s tooth`; pl. Lions\… does not match the headword
+       1  headline form …hôte"; pl. Tables d\… does not match the headword
+       1  headline form …-shan"ter' does not match the headword
+       1  headline form … Bed"lam' does not match the headword
+       1  headline form …s"' does not match the headword
+
+Failures (source line, headword, reason):
+  146	A 1	headline form 'A 1. A registry mark given by underwriters' does not match the headword
+  9418	ACROCARPOUS	no sense with text (no numbered sense or Defn: paragraph)
+  9650	ACROTERIUM	no sense with text (no numbered sense or Defn: paragraph)
+  9804	ACTINIA	no sense with text (no numbered sense or Defn: paragraph)
+  10581	ADACTYL; ADACTYLOUS	no sense with text (no numbered sense or Defn: paragraph)
+  11896	AD INTERIM	headline form 'Ad in"ter*imEtym:' does not match the headword
+  15273	AERIAL RAILWAY	no sense with text (no numbered sense or Defn: paragraph)
+  15385	AERODROME	no sense with text (no numbered sense or Defn: paragraph)
+  15552	AEROPHONE	no sense with text (no numbered sense or Defn: paragraph)
+  19518	AGRIMONY	no sense with text (no numbered sense or Defn: paragraph)
+  20661	AJOUAN; AJOWAN	headline form 'Aj"ou*an Aj"ow*an' does not match the headword
+  20737	AL-	headline form 'Al-. A' does not match the headword
+  22319	ALEXIA	no sense with text (no numbered sense or Defn: paragraph)
+  22429	ALGAROBA	no sense with text (no numbered sense or Defn: paragraph)
+  24531	ALLOMORPH	no sense with text (no numbered sense or Defn: paragraph)
+  24666	ALLOTROPHIC	no sense with text (no numbered sense or Defn: paragraph)
+  26380	ALTHAEA; ALTHEA	no sense with text (no numbered sense or Defn: paragraph)
+  29012	AMMODYTE	no sense with text (no numbered sense or Defn: paragraph)
+  32418	ANCHOR ESCAPEMENT	no sense with text (no numbered sense or Defn: paragraph)
+  32878	ANDRODIOECIOUS; ANDRODIECIOUS	headline form 'An`dro*di*o"cious' does not match the headword
+  33597	ANGIOCARPOUS	no sense with text (no numbered sense or Defn: paragraph)
+  34872	ANISODACTYLA; ANISODACTYLS	no sense with text (no numbered sense or Defn: paragraph)
+  34965	ANISYL	no sense with text (no numbered sense or Defn: paragraph)
+  36896	ANTECHOIR	no sense with text (no numbered sense or Defn: paragraph)
+  38005	ANTIBACTERIAL	no sense with text (no numbered sense or Defn: paragraph)
+  39879	ANUBIS	headline form '\'d8A*nu"bis' does not match the headword
+  40745	APHRASIA	no sense with text (no numbered sense or Defn: paragraph)
+  41037	APNOEA; APNEA	headline form 'Ap*nae"a' does not match the headword
+  42733	APPELLOR	no sense with text (no numbered sense or Defn: paragraph)
+  45376	ARACARI	headline form 'A`ra*' does not match the headword
+  46650	ARCHIMANDRITE	no sense with text (no numbered sense or Defn: paragraph)
+  48154	ARILLATE; ARILLATED; ARILED	headline form 'Ar"il*late. Ar"il*la`ted' does not match the headword
+  49056	ARNAUT; ARNAOUT	headline form 'Ar*naut" Ar*naout"' does not match the headword
+  50917	ARTICULUS	headline form 'Ar*tic"u*lus n.; pl. Articuli.' does not match the headword
+  52528	ASPALATHUS	no sense with text (no numbered sense or Defn: paragraph)
+  56527	ATHEROMA	no sense with text (no numbered sense or Defn: paragraph)
+  56763	ATMAN	no sense with text (no numbered sense or Defn: paragraph)
+  59677	AULD LICHT; AULD LIGHT	no sense with text (no numbered sense or Defn: paragraph)
+  60668	AUTHORIZE ONE'S SELF	headline form "To authorize one's self" does not match the headword
+  60893	AUTOECIOUS	headline form 'Au*to"cious' does not match the headword
+  60899	AUTOECISM	headline form 'Au*to"cism' does not match the headword
+  63737	AXMINSTER; AXMINSTER CARPET	no sense with text (no numbered sense or Defn: paragraph)
+  64023	AZOTH	no sense with text (no numbered sense or Defn: paragraph)
+  65178	BACK FIRE	no sense with text (no numbered sense or Defn: paragraph)
+  66270	BAHADUR; BAHAUDUR	headline form 'Ba*ha"dur Ba*hau"dur' does not match the headword
+  68014	BALTIMORE BIRD; BALTIMORE ORIOLE	headline form 'Bal"ti*more bird`. Bal"ti*more o"ri*ole.' does not match the headword
+  69275	BAPTISTERY; BAPTISTRY	headline form 'Bap"tis*ter*y,Bap"tis*try' does not match the headword
+  70535	BARLEYBRAKE; BARLEYBREAK	headline form 'Bar"ley*brake` Bar"ley*break`' does not match the headword
+  71028	BARRAMUNDI	no sense with text (no numbered sense or Defn: paragraph)
+  72788	BASTILE; BASTILLE	headline form 'Bas*tile" Bas*tille"' does not match the headword
+  73760	BATTLE-AX; BATTLE-AXE	headline form 'Bat"tle-ax` Bat"tle-axe`' does not match the headword
+  74404	BAZAAR; BAZAR	headline form 'Ba*zaar" Ba*zar"' does not match the headword
+  74442	BDELLOMORPHA	headline form 'Bdel`lo*mor"pha,n.' does not match the headword
+  76785	BEDFERE; BEDPHERE	headline form 'Bed"fere` Bed"phere`' does not match the headword
+  76851	BED-MOLDING; BED-MOULDING	headline form 'Bed"-mold`ing Bed"-mould`ing' does not match the headword
+  76942	BEDRIGHT; BEDRITE	headline form 'Bed"right` Bed"rite`' does not match the headword
+  77887	BEGHARD; BEGUARD	headline form 'Be*ghard" Be*guard"' does not match the headword
+  78690	BELDAM; BELDAME	headline form 'Bel"dam Bel"dame' does not match the headword
+  79599	BELOOCHE; BELOOCHEE	headline form 'Bel*oo"che Bel*oo"chee' does not match the headword
+  80332	BENEFACTOR	headline form 'Ben`e*fac"tor,n.' does not match the headword
+  81025	BENZOLE; BENZOL	headline form 'Ben"zole Ben"zol' does not match the headword
+  81237	BERBERRY	headline form 'Ber"ber*ry,n' does not match the headword
+  81464	BERM; BERME	headline form 'Berm Berme' does not match the headword
+  82711	BETAUGHT	headline form 'Be*taught",a.' does not match the headword
+  83851	BIANGULOUS	headline form 'Bi*an"gu*lous,a.' does not match the headword
+  84094	BIBLIOGRAPHY	headline form 'Bib`li*og"ra*phy n.; pl. Bibliographies.' does not match the headword
+  86794	BIOPHOR; BIOPHORE	headline form 'Bi"o*phor` Bi"o*phore`' does not match the headword
+  88627	BITTOR; BITTOUR	headline form 'Bit"tor Bit"tour' does not match the headword
+  89254	BLACK-EYED SUSAN	no sense with text (no numbered sense or Defn: paragraph)
+  92492	BLOLLY	no sense with text (no numbered sense or Defn: paragraph)
+  96957	BOMBAZET; BOMBAZETTE	headline form 'Bom`ba*zet" Bom`ba*zette"' does not match the headword
+  97054	BONACI	no sense with text (no numbered sense or Defn: paragraph)
+  97638	BONNE BOUCHE	headline form 'Bonne" bouche"; pl. Bonnes bouches' does not match the headword
+  97807	BON VIVANT	headline form 'Bon" vi`vant"; pl. Bons vivants.' does not match the headword
+  100004	BOTHY; BOOTHY	headline form 'Both"y Booth"y n.; pl. -ies' does not match the headword
+  102401	BRACHIAL	headline form 'Brach"i*al or' does not match the headword
+  105873	BRELAN	no sense with text (no numbered sense or Defn: paragraph)
+  108012	BROADAX; BROADAXE	headline form 'Broad"ax` Broad"axe`' does not match the headword
+  108942	BRONTOGRAPH	no sense with text (no numbered sense or Defn: paragraph)
+  112556	BULL MOOSE	no sense with text (no numbered sense or Defn: paragraph)
+  116901	CAADA	headline form 'Ca*ña"da' does not match the headword
+  118957	CALAMITY	headline form 'Ca*lam"i*ty n.; pl. Calamities.' does not match the headword
+  119058	CALCANEUM	headline form 'Cal*ca"ne*um n.; pl. E. -neums' does not match the headword
+  122640	CANDELABRUM	headline form 'Can`de*la"brum n.; pl. L. Candelabra' does not match the headword
+  122898	CANDLEPIN	no sense with text (no numbered sense or Defn: paragraph)
+  124523	CAONCITO	headline form 'Cañ`on*ci"to' does not match the headword
+  127227	CARDIA	no sense with text (no numbered sense or Defn: paragraph)
+  128002	CAR MILEAGE	no sense with text (no numbered sense or Defn: paragraph)
+  129714	CARYOPHYLLACEOUS	no sense with text (no numbered sense or Defn: paragraph)
+  134251	CC IRA	headline form 'Ça" i*ra".' does not match the headword
+  136927	CEROPLASTIC	no sense with text (no numbered sense or Defn: paragraph)
+  141838	CHATTER MARK	no sense with text (no numbered sense or Defn: paragraph)
+  145446	CHIROGRAPH	no sense with text (no numbered sense or Defn: paragraph)
+  146490	CHOKY; CHOKEY	headline form 'Chok"y Chok"ey' does not match the headword
+  147226	CHOREUS; CHOREE	no sense with text (no numbered sense or Defn: paragraph)
+  147748	CHRISTIANITE	no sense with text (no numbered sense or Defn: paragraph)
+  148860	CHUPRASSY; CHUPRASSIE	headline form 'Chu*pras"sy Chu*pras"sie' does not match the headword
+  161915	COLA	no sense with text (no numbered sense or Defn: paragraph)
+  163430	COLLOPHORE	no sense with text (no numbered sense or Defn: paragraph)
+  164298	COLUMBARIUM	no sense with text (no numbered sense or Defn: paragraph)
+  164769	COMBATIVE	headline form 'Com"bat*ive or' does not match the headword
+  165037	COMBUSTION CHAMBER	no sense with text (no numbered sense or Defn: paragraph)
+  174791	CONFIDANT; CONFIDANTE	headline form 'Con`fi*dant"; 277)' does not match the headword
+  174972	CONFINE	headline form 'Con"fine or' does not match the headword
+  178935	CONSIGNATURE	headline form 'Con*sig"na*ture; 135)' does not match the headword
+  179240	CONSOLATION GAME; CONSOLATION MATCH; CONSOLATION POT; CONSOLATION	headline form 'RACE' does not match the headword
+  183003	CONTRALTO	no sense with text (no numbered sense or Defn: paragraph)
+  183101	CONTRARIETY	headline form 'Con`tra*ri"e*ty n.; pl. Contrarieties.' does not match the headword
+  183117	CONTRARILY	headline form 'Con"tra*ri*ly or' does not match the headword
+  185374	CONVOY PENNANT	headline form 'Con"voy pen"nant. A white pennant with red border' does not match the headword
+  186942	COQUILLE	no sense with text (no numbered sense or Defn: paragraph)
+  188874	COROZO; COROSSO	headline form 'Co*ro"zo Co*ros"so' does not match the headword
+  190468	CORYMB	no sense with text (no numbered sense or Defn: paragraph)
+  191873	COUCHE	no sense with text (no numbered sense or Defn: paragraph)
+  192962	COUNTERLATH	no sense with text (no numbered sense or Defn: paragraph)
+  193266	COUNTERREVOLUTIONARY; COUNTER-REVOLUTIONARY	headline form 'counterrevolutionary counter-revolutionary adj' does not match the headword
+  193756	COUPABLE	headline form 'Cou' does not match the headword
+  195245	COVING	no sense with text (no numbered sense or Defn: paragraph)
+  195634	COWRIE; COWRY	headline form 'Cow"rie Cow"ry' does not match the headword
+  196701	CRAMOISIE; CRAMOISY	headline form 'Cra*moi"sie Cra*moi"sy' does not match the headword
+  200892	CROCIN	no sense with text (no numbered sense or Defn: paragraph)
+  201945	CROSSETTE	no sense with text (no numbered sense or Defn: paragraph)
+  205139	CUCURBIT; CUCURBITE	headline form 'Cu*cur"bit Cu*cur"bite' does not match the headword
+  206762	CURARE; CURARI	headline form 'Cu*ra"re Cu*ra"ri' does not match the headword
+  209693	CYCLOPEDIA; CYCLOPAEDIA	headline form 'Cy`clo*pe"di*a Cy`clo*pae"di*a' does not match the headword
+  209765	CYCLOSTOMATA	no sense with text (no numbered sense or Defn: paragraph)
+  210010	CYMOGRAPH	no sense with text (no numbered sense or Defn: paragraph)
+  221203	DEFORCE	no sense with text (no numbered sense or Defn: paragraph)
+  225570	DENDROCOELA	headline form 'Den`dro*c' does not match the headword
+  235534	DIASPORA	no sense with text (no numbered sense or Defn: paragraph)
+  236187	DICROTIC	no sense with text (no numbered sense or Defn: paragraph)
+  236832	DIES JURIDICUS	headline form 'Di"es ju*rid"i*cus; pl. Dies juridici.' does not match the headword
+  239079	DIMERA	no sense with text (no numbered sense or Defn: paragraph)
+  240196	DIPHTHONG	no sense with text (no numbered sense or Defn: paragraph)
+  240824	DIRECT CURRENT	no sense with text (no numbered sense or Defn: paragraph)
+  243192	DISCOBOLUS	no sense with text (no numbered sense or Defn: paragraph)
+  252340	DISTRIBUTOR	no sense with text (no numbered sense or Defn: paragraph)
+  252872	DITOKOUS	no sense with text (no numbered sense or Defn: paragraph)
+  255392	DOE, JOHN	headline form 'Doe' does not match the headword
+  258114	DOS--DOS	headline form 'Dos`-à-dos"' does not match the headword
+  258120	DOS--DOS	headline form 'Dos`-à-dos"' does not match the headword
+  259890	DOWNCOMER	no sense with text (no numbered sense or Defn: paragraph)
+  260446	DRACUNCULUS	no sense with text (no numbered sense or Defn: paragraph)
+  266160	DULCIMER	no sense with text (no numbered sense or Defn: paragraph)
+  269992	EASTER LILY	no sense with text (no numbered sense or Defn: paragraph)
+  270898	ECHAUGUETTE	headline form '' does not match the headword
+  271486	ECORCHE	headline form '' does not match the headword
+  271696	ECTOBLAST	no sense with text (no numbered sense or Defn: paragraph)
+  271762	ECTOPLASM	no sense with text (no numbered sense or Defn: paragraph)
+  271995	EDDY KITE	headline form 'Ed"dy kite. Called also Malay kite.' does not match the headword
+  274684	ELABORATED	headline form 'elaborated adj' does not match the headword
+  278209	ELYTRON; ELYTRUM	no sense with text (no numbered sense or Defn: paragraph)
+  283542	ENDODERM	no sense with text (no numbered sense or Defn: paragraph)
+  284946	ENGINEER CORPS; CORPS OF ENGINEERS	no sense with text (no numbered sense or Defn: paragraph)
+  288051	ENTOPLASM	no sense with text (no numbered sense or Defn: paragraph)
+  290383	EPIMERON	no sense with text (no numbered sense or Defn: paragraph)
+  290547	EPIPHYSIS	no sense with text (no numbered sense or Defn: paragraph)
+  290976	EPISTOMA; EPISTOME	no sense with text (no numbered sense or Defn: paragraph)
+  292454	EQUITES	headline form 'Eq"ui*tes n. pl' does not match the headword
+  293248	ERGON	no sense with text (no numbered sense or Defn: paragraph)
+  294246	ERYTHROSIN	no sense with text (no numbered sense or Defn: paragraph)
+  297554	EULOGIUM	headline form 'Eu*lo"gi*um n.; pl. Eulogiums.' does not match the headword
+  297669	EUPATORIN; EUPATORINE	headline form 'Eu*pat"o*rin Eu*pat"o*rine' does not match the headword
+  297793	EUPHORBIN; EUPHORBINE	headline form 'Eu*phor"bin Eu*phor"bine' does not match the headword
+  302074	EXCUR	headline form 'Ex*cur" i.' does not match the headword
+  303753	EX OFFICIO	headline form 'Ex` of*fi"ci*o; pl. Ex officiis.' does not match the headword
+  309054	EYLE	headline form 'Eyle v. t.& i' does not match the headword
+  316084	FEASIBILITY	headline form 'Fea"si*bil*ity n.; pl. Feasibilities' does not match the headword
+  319319	FERRICYANATE	headline form 'Fer`ri*cy"a*nat' does not match the headword
+  326823	FLAMBEAU	headline form 'Flam"beau; n.; pl. Flambeaux or Flambeaus.' does not match the headword
+  327177	FLANNEL FLOWER	no sense with text (no numbered sense or Defn: paragraph)
+  332855	FLYAWAY	headline form 'flyaway adj' does not match the headword
+  333382	FOEHN	no sense with text (no numbered sense or Defn: paragraph)
+  347844	FULMINATE	no sense with text (no numbered sense or Defn: paragraph)
+  348145	FUMET; FUMETTE	headline form 'Fu"met Fu*mette"' does not match the headword
+  349675	FUSE PLUG; FUZE PLUG	headline form 'Fuse' does not match the headword
+  349940	FUTHORC; FUTHORK	headline form 'Fu"thorc Fu"thork' does not match the headword
+  352295	GALVANISM	no sense with text (no numbered sense or Defn: paragraph)
+  352463	GAM	no sense with text (no numbered sense or Defn: paragraph)
+  352470	GAM	no sense with text (no numbered sense or Defn: paragraph)
+  354142	GAR PIKE; GARPIKE	headline form 'Gar" pike` or; Gar"pike`.' does not match the headword
+  354186	GARRISON	no sense with text (no numbered sense or Defn: paragraph)
+  354600	GASOLINE ENGINE; GASOLENE ENGINE	headline form 'Gas"o*line' does not match the headword
+  354614	GASOMETRIC; GASOMETRICAL	headline form 'Gas`o*met"ric or; Gas`o*met"ric*al' does not match the headword
+  354891	GASTROMANCY	no sense with text (no numbered sense or Defn: paragraph)
+  356906	GEMMIPARA; GEMMIPARES	headline form 'Gem*mip"a*ra Gem*mip"a*res' does not match the headword
+  358488	GEOCENTRIC; GEOCENTRICAL	no sense with text (no numbered sense or Defn: paragraph)
+  358528	GEODE	no sense with text (no numbered sense or Defn: paragraph)
+  360014	GHAT; GHAUT	headline form 'Ghat Ghaut' does not match the headword
+  360041	GHEBER; GHEBRE	headline form 'Ghe"ber Ghe"bre' does not match the headword
+  361035	GILLIE; GILLY	headline form 'Gil"lie Gil"ly' does not match the headword
+  361491	GIRASOLE; GIRASOL	headline form 'Gir"a*sole Gir"a*sol' does not match the headword
+  362761	GLANS	headline form 'Glans n.; pl. Glandes.' does not match the headword
+  363127	GLAUBER'S SALT; GLAUBER'S SALTS	headline form 'Glau"ber\'s salt` or; Glau"ber\'s salts`' does not match the headword
+  364353	GLONOIN; GLONOINE	headline form 'Glon"o*in Glon"o*ine' does not match the headword
+  366532	GOAF	headline form 'Goaf; n.; pl. Goafs or Goaves.' does not match the headword
+  366913	GO-DEVIL	no sense with text (no numbered sense or Defn: paragraph)
+  367233	GOITER; GOITRE	headline form 'Goi"ter Goi"tre' does not match the headword
+  367968	GONOCHORISM	no sense with text (no numbered sense or Defn: paragraph)
+  370475	GRAFF	headline form 'Graff n. &' does not match the headword
+  370570	GRAFTING	headline form 'Graft"ing n. 1.' does not match the headword
+  376466	GROUNDSILL	no sense with text (no numbered sense or Defn: paragraph)
+  376515	GROUPER	no sense with text (no numbered sense or Defn: paragraph)
+  377779	GUEBER; GUEBRE	headline form 'Gue"ber Gue"bre' does not match the headword
+  379684	GUTTERSNIPE	no sense with text (no numbered sense or Defn: paragraph)
+  379920	GYMNASIUM	headline form 'Gym*na"si*um n.; pl. E. Gymnasiums' does not match the headword
+  380388	GYPSY MOTH; GIPSY MOTH	headline form 'Gyp"sy' does not match the headword
+  381432	HAEMADROMETRY; HAEMADROMOMETRY	headline form 'Haem`a*drom"e*try,Haem`a*dro*mom"e*try' does not match the headword
+  381787	HAEMODYNAMICS	headline form 'Hæ`mo*dy*nam"ics,n' does not match the headword
+  387017	HARRAGE	headline form 'Har"rage v. t..' does not match the headword
+  391592	HECKERISM	no sense with text (no numbered sense or Defn: paragraph)
+  393843	HEMELYTRON; HEMELYTRUM	headline form 'Hem*el"y*tron or' does not match the headword
+  397005	HETEROECIOUS	headline form 'Het`er*o"cious' does not match the headword
+  397651	HEXAGRAM	no sense with text (no numbered sense or Defn: paragraph)
+  399629	HINDOO CALENDAR; HINDU CALENDAR	headline form 'Hin"doo' does not match the headword
+  400791	HIT	headline form 'Hit adj' does not match the headword
+  400937	HITTORF TUBE	no sense with text (no numbered sense or Defn: paragraph)
+  404569	HONEYBERRY	no sense with text (no numbered sense or Defn: paragraph)
+  405073	HOOD MOLDING; HOOD MOULDING	headline form 'Hood" mold`ing Hood" mould`ing.' does not match the headword
+  406599	HORS D'OEUVRE	headline form 'Hors` d\'ouvre"; pl. Hors d\'ouveres' does not match the headword
+  410851	HURRAH; HURRA	headline form 'Hur*rah" Hur*ra"' does not match the headword
+  411266	HUSO	no sense with text (no numbered sense or Defn: paragraph)
+  412734	HYDROPHOBIA	no sense with text (no numbered sense or Defn: paragraph)
+  413700	HYOGLOSSAL	no sense with text (no numbered sense or Defn: paragraph)
+  415137	HYPOSTROPHE	no sense with text (no numbered sense or Defn: paragraph)
+  415533	HYSTERON PROTERON	no sense with text (no numbered sense or Defn: paragraph)
+  417786	IGNIS FATUUS	headline form 'Ig"nis fat"u*us; pl. Ignes fatui.' does not match the headword
+  425031	IMPRIMERY	no sense with text (no numbered sense or Defn: paragraph)
+  426393	INADVERTENCE; INADVERTENCY	headline form 'In`ad*vert"ence; pl. -ces' does not match the headword
+  426537	IN AND IN	headline form 'In and an' does not match the headword
+  435238	INDUSIUM	no sense with text (no numbered sense or Defn: paragraph)
+  436905	INFARCT	no sense with text (no numbered sense or Defn: paragraph)
+  437108	INFECTIOUS DISEASE	no sense with text (no numbered sense or Defn: paragraph)
+  439395	INGENITE; INGENIT	headline form 'In*gen"ite In*gen"it' does not match the headword
+  442588	IN REM	no sense with text (no numbered sense or Defn: paragraph)
+  444139	INSOLVENT	no sense with text (no numbered sense or Defn: paragraph)
+  453319	INVERTASE	no sense with text (no numbered sense or Defn: paragraph)
+  456721	ISAGELOUS; ISAGEL	headline form 'A.' does not match the headword
+  457633	ISOPATHY	no sense with text (no numbered sense or Defn: paragraph)
+  457766	ISOSPORE	no sense with text (no numbered sense or Defn: paragraph)
+  458743	IXTLE; IXTIL	headline form 'Ix"tle Ix"til' does not match the headword
+  459320	JACK-'-LANTERN	headline form 'Jack"-o\'-lan`tern' does not match the headword
+  459412	JACKY	no sense with text (no numbered sense or Defn: paragraph)
+  465146	JUKES, THE	headline form 'Jukes' does not match the headword
+  466080	JURY MAST	no sense with text (no numbered sense or Defn: paragraph)
+  470330	KINETOGRAPH	no sense with text (no numbered sense or Defn: paragraph)
+  472117	KNIGHT BACHELOR	headline form 'Knight" bach"e*lor; pl. Knights bachelors' does not match the headword
+  472123	KNIGHT BANNERET	headline form 'Knight" ban"ner*et; pl. Knights bannerets' does not match the headword
+  472224	KNIGHT SERVICE; KNIGHT'S SERVICE	headline form "Knight service. Also Knight's service" does not match the headword
+  472250	KNIGHT TEMPLAR	headline form 'Knight" Tem"plar; pl. Knights Templars' does not match the headword
+  473674	KRUPP PROCESS	no sense with text (no numbered sense or Defn: paragraph)
+  476709	LAKER	no sense with text (no numbered sense or Defn: paragraph)
+  477638	LANCASHIRE BOILER	headline form 'La"ca*shire boil"er' does not match the headword
+  477990	LANDDROST; LANDTROST	no sense with text (no numbered sense or Defn: paragraph)
+  482075	LAUTVERSCHIEBUNG	no sense with text (no numbered sense or Defn: paragraph)
+  482781	LAXIITY	headline form 'Lax"i*ty' does not match the headword
+  483079	LAYMAN	headline form 'Lay"man n.; pl. Laymen' does not match the headword
+  489399	LIBELLEE	no sense with text (no numbered sense or Defn: paragraph)
+  491696	LIGHTHOUSE	headline form 'Light"house` n.; pl.Lighthouses' does not match the headword
+  491873	LIGHTWEIGHT	no sense with text (no numbered sense or Defn: paragraph)
+  492414	LILIACEOUS	no sense with text (no numbered sense or Defn: paragraph)
+  494437	LINOTYPE	no sense with text (no numbered sense or Defn: paragraph)
+  494665	LION'S TOOTH	headline form 'Li"on\'s tooth`; pl. Lions\' teeth' does not match the headword
+  496090	LITHOID; LITHOIDAL	headline form 'Lith"oid Li*thoid"al' does not match the headword
+  496166	LITHOPHAGOUS	no sense with text (no numbered sense or Defn: paragraph)
+  496231	LITHOSPHERE	no sense with text (no numbered sense or Defn: paragraph)
+  499514	LOLLARD	no sense with text (no numbered sense or Defn: paragraph)
+  501347	LORDOSIS	no sense with text (no numbered sense or Defn: paragraph)
+  501426	LORETO NUNS; LORETTO NUNS	headline form 'Lo*ret"o' does not match the headword
+  502056	LOUIS QUATORZE	headline form 'Lon"is qua*torze".' does not match the headword
+  503749	LUFF	no sense with text (no numbered sense or Defn: paragraph)
+  503772	LUFFA	no sense with text (no numbered sense or Defn: paragraph)
+  505073	LUSTER; LUSTRE	headline form 'Lus"ter Lus"tre' does not match the headword
+  506342	MAALIN	no sense with text (no numbered sense or Defn: paragraph)
+  507614	MADEIRA WOOD	no sense with text (no numbered sense or Defn: paragraph)
+  507845	MADRO	headline form 'Ma*dro"ña' does not match the headword
+  518516	MASTAX	no sense with text (no numbered sense or Defn: paragraph)
+  522415	MECONIUM	no sense with text (no numbered sense or Defn: paragraph)
+  524187	MELANOMA	no sense with text (no numbered sense or Defn: paragraph)
+  524485	MELISMA	no sense with text (no numbered sense or Defn: paragraph)
+  525830	MENORRHAGIA	no sense with text (no numbered sense or Defn: paragraph)
+  527747	MESODERM	no sense with text (no numbered sense or Defn: paragraph)
+  528474	METACENTER; METACENTRE	headline form 'Met`a*cen"ter or; Metacentre' does not match the headword
+  528869	METALLOPHONE	no sense with text (no numbered sense or Defn: paragraph)
+  530203	METOCHE	no sense with text (no numbered sense or Defn: paragraph)
+  544931	MOONLIGHTER	no sense with text (no numbered sense or Defn: paragraph)
+  546291	MORMON	no sense with text (no numbered sense or Defn: paragraph)
+  546814	J .---     P .--.     X -..-	headline form 'The Morse code is used chiefly with the electric telegraph' does not match the headword
+  551645	MULTIVALENT	no sense with text (no numbered sense or Defn: paragraph)
+  554684	MYELIN	no sense with text (no numbered sense or Defn: paragraph)
+  555720	MYXOEDEMA	headline form 'Myx`o*de"ma' does not match the headword
+  558763	NAVY	headline form 'Na"vy; n.; pl. Navies.' does not match the headword
+  558986	NEAPOLITAN ICE; NEAPOLITAN ICE CREAM	no sense with text (no numbered sense or Defn: paragraph)
+  559892	NECTOCALYX	no sense with text (no numbered sense or Defn: paragraph)
+  562715	NEURILEMMA	no sense with text (no numbered sense or Defn: paragraph)
+  567479	NON COMPOS; NON COMPOS MENTIS	headline form 'Non com"pos. Non com"pos men"tis.Etym:' does not match the headword
+  568634	NORFOLK DUMPLING	no sense with text (no numbered sense or Defn: paragraph)
+  569390	NOSTRUM	headline form 'Nos"trum n.; pl. Nostrums.' does not match the headword
+  569985	NOTOBRANCHIATA	no sense with text (no numbered sense or Defn: paragraph)
+  572501	NYCTALOPIA	no sense with text (no numbered sense or Defn: paragraph)
+  574395	OBOLUS	no sense with text (no numbered sense or Defn: paragraph)
+  576336	OCHER; OCHRE	no sense with text (no numbered sense or Defn: paragraph)
+  577691	OEIL-DE-BOEUF	headline form 'Oil`-de-bouf"' does not match the headword
+  577699	OEIL-DE-PERDRIX	headline form 'Oil`-de-per`drix"' does not match the headword
+  577793	OENOMANIA	no sense with text (no numbered sense or Defn: paragraph)
+  579412	OLEASTER	no sense with text (no numbered sense or Defn: paragraph)
+  579990	OLYMPIC GAMES; OLYMPIAN GAMES	headline form 'O*lym"pic' does not match the headword
+  581608	OORDOBA	headline form 'Cór"do*ba' does not match the headword
+  581651	OOSPORE; OOESPORE	no sense with text (no numbered sense or Defn: paragraph)
+  588132	OSMOSE	no sense with text (no numbered sense or Defn: paragraph)
+  588669	OSTEOPATHY	no sense with text (no numbered sense or Defn: paragraph)
+  589180	OTOCONITE	no sense with text (no numbered sense or Defn: paragraph)
+  590270	OUTFANGTHEF	no sense with text (no numbered sense or Defn: paragraph)
+  593108	OVERGLAZE	no sense with text (no numbered sense or Defn: paragraph)
+  595098	OVERTHWART	headline form '' does not match the headword
+  596986	OZONIZE	no sense with text (no numbered sense or Defn: paragraph)
+  599410	PALESTRA	no sense with text (no numbered sense or Defn: paragraph)
+  600448	PALO BLANCO	no sense with text (no numbered sense or Defn: paragraph)
+  601115	PAN-AMERICAN CONGRESS	headline form 'Pan-American Congress. Any of several meetings of delegates from' does not match the headword
+  602057	PANSPERMY	no sense with text (no numbered sense or Defn: paragraph)
+  612695	PEAVEY; PEAVY	headline form 'Pea"vey Pea"vy' does not match the headword
+  613915	PEDRAIL	no sense with text (no numbered sense or Defn: paragraph)
+  613933	PEDRO	no sense with text (no numbered sense or Defn: paragraph)
+  614839	PELLITORY	no sense with text (no numbered sense or Defn: paragraph)
+  615489	PENDENTIVE	no sense with text (no numbered sense or Defn: paragraph)
+  616041	PENNANT	no sense with text (no numbered sense or Defn: paragraph)
+  617485	PEPTONE	no sense with text (no numbered sense or Defn: paragraph)
+  620156	PERITREME	no sense with text (no numbered sense or Defn: paragraph)
+  624123	PHAGEDENA	no sense with text (no numbered sense or Defn: paragraph)
+  624783	PHARYNGOTOMY	no sense with text (no numbered sense or Defn: paragraph)
+  625115	PHENICINE	no sense with text (no numbered sense or Defn: paragraph)
+  628184	PHYLLOPHAGAN	no sense with text (no numbered sense or Defn: paragraph)
+  629810	PI CLOTH	headline form 'Pi"ña cloth`' does not match the headword
+  629818	PI CLOTH	headline form 'Pi`ña cloth.' does not match the headword
+  631922	PIMELIC	no sense with text (no numbered sense or Defn: paragraph)
+  632577	PINFISH	no sense with text (no numbered sense or Defn: paragraph)
+  633276	PION	headline form 'Piñ"on' does not match the headword
+  639691	PLEURON	no sense with text (no numbered sense or Defn: paragraph)
+  640499	PLUCKER TUBE	no sense with text (no numbered sense or Defn: paragraph)
+  642444	PODOBRANCHIA	headline form 'Pod`o*bran"chi*a n.' does not match the headword
+  642471	PODOPHTHALMIC; PODOPHTHALMOUS	no sense with text (no numbered sense or Defn: paragraph)
+  642575	POECILITIC	no sense with text (no numbered sense or Defn: paragraph)
+  643429	POISON BUSH	headline form 'Poison bush. In Australia:' does not match the headword
+  645249	POLYANTHUS	no sense with text (no numbered sense or Defn: paragraph)
+  645315	POLYCARPIC; POLYCARPOUS	no sense with text (no numbered sense or Defn: paragraph)
+  646984	POMFRET	no sense with text (no numbered sense or Defn: paragraph)
+  650828	POSTGLACIAL	no sense with text (no numbered sense or Defn: paragraph)
+  651702	POTATO	no sense with text (no numbered sense or Defn: paragraph)
+  652407	POUF; POUFFE	headline form 'Pouf Pouffe' does not match the headword
+  657197	PRELACY	headline form 'Prel"a*cy n.; pl. Prelacies.' does not match the headword
+  657486	PREMAXILLA	headline form 'Pre"max*il"la n.; pl. Premaxillæ.' does not match the headword
+  659771	PRESS PROOF	no sense with text (no numbered sense or Defn: paragraph)
+  659841	PRESS WORK	headline form '5. Usually Press work. The work of a press agent.' does not match the headword
+  661814	PRIMA DONNA	headline form 'Pri"ma don"na; pl. E. Prima donnas' does not match the headword
+  664548	PROCESS PLATE	no sense with text (no numbered sense or Defn: paragraph)
+  664677	PROCOELIA	headline form 'Pro*coe"li*a n.; pl. Procoeliæ' does not match the headword
+  664916	PROCTUCHA	no sense with text (no numbered sense or Defn: paragraph)
+  666225	PROGNE	no sense with text (no numbered sense or Defn: paragraph)
+  672678	PRUNELLA	no sense with text (no numbered sense or Defn: paragraph)
+  673544	PSORIASIS	no sense with text (no numbered sense or Defn: paragraph)
+  674393	PUBLIC SCHOOL	no sense with text (no numbered sense or Defn: paragraph)
+  679822	PYLA	headline form 'Py"la n.; pl. L. Pylæ' does not match the headword
+  679855	PYLORUS	no sense with text (no numbered sense or Defn: paragraph)
+  686917	RABAT	no sense with text (no numbered sense or Defn: paragraph)
+  688698	RAFFIA PALM	no sense with text (no numbered sense or Defn: paragraph)
+  699949	RED DOG FLOUR; RED-DOG FLOUR	headline form 'Red dog' does not match the headword
+  707490	REMARQUE; REMARK; REMARQUE PROOF	no sense with text (no numbered sense or Defn: paragraph)
+  710308	REPETITIONAL; REPETITIONARY	headline form 'Rep`e*ti"tion*al. Rep`e*ti"tion*a*ry' does not match the headword
+  720247	RHEOPHORE	no sense with text (no numbered sense or Defn: paragraph)
+  720559	RHINOLITE; RHINOLITH	headline form 'Rhi"no*lite Rhi"no*lith' does not match the headword
+  725887	ROCAILLE	no sense with text (no numbered sense or Defn: paragraph)
+  726563	ROE, RICHARD	headline form 'Roe' does not match the headword
+  729149	ROSS	headline form 'Ross; 115)' does not match the headword
+  732518	RUFF	no sense with text (no numbered sense or Defn: paragraph)
+  734345	RUNNING LOAD	no sense with text (no numbered sense or Defn: paragraph)
+  735802	SABOTAGE	no sense with text (no numbered sense or Defn: paragraph)
+  737222	SAFETY CHAIN	no sense with text (no numbered sense or Defn: paragraph)
+  738757	SALIFY	no sense with text (no numbered sense or Defn: paragraph)
+  741882	SAPHENOUS	no sense with text (no numbered sense or Defn: paragraph)
+  742586	SARCOSIS	no sense with text (no numbered sense or Defn: paragraph)
+  743989	SAUROID	no sense with text (no numbered sense or Defn: paragraph)
+  748908	SCIRRHUS	no sense with text (no numbered sense or Defn: paragraph)
+  749148	SCLERIASIS	no sense with text (no numbered sense or Defn: paragraph)
+  749477	SCOLEX	no sense with text (no numbered sense or Defn: paragraph)
+  753884	SEA CATFISH; SEA CAT	headline form 'Sea" cat`fish. Sea" cat`.' does not match the headword
+  753982	SEA CRAWFISH; SEA CRAYFISH	headline form 'Sea" craw"fish`. Sea" cray"fish`.' does not match the headword
+  754998	SEA POACHER; SEA POKER	headline form 'Sea" poach"er. Sea" pok"er.' does not match the headword
+  755239	SEARCHLIGHT	no sense with text (no numbered sense or Defn: paragraph)
+  763332	SEOR	headline form 'Se*ñor"' does not match the headword
+  763338	SEORA	headline form 'Se*ño"ra' does not match the headword
+  763344	SEORITA	headline form 'Se`ño*ri"ta' does not match the headword
+  764932	SERIES DYNAMO	no sense with text (no numbered sense or Defn: paragraph)
+  764937	SERIES MOTOR	no sense with text (no numbered sense or Defn: paragraph)
+  765144	SEROTHERAPY	no sense with text (no numbered sense or Defn: paragraph)
+  773330	SHIP RAILWAY	no sense with text (no numbered sense or Defn: paragraph)
+  776694	SHUNTING	no sense with text (no numbered sense or Defn: paragraph)
+  779066	SILENCER	no sense with text (no numbered sense or Defn: paragraph)
+  782403	SIPHONOSTOMATA	no sense with text (no numbered sense or Defn: paragraph)
+  782419	SIPHONOSTOME	no sense with text (no numbered sense or Defn: paragraph)
+  782690	SIRIASIS	no sense with text (no numbered sense or Defn: paragraph)
+  782745	SIRUP; SYRUP	headline form 'Sir"up Syr"up' does not match the headword
+  784349	SKIDDER	no sense with text (no numbered sense or Defn: paragraph)
+  784360	SKID ROAD	no sense with text (no numbered sense or Defn: paragraph)
+  789203	SLUGGING MATCH	no sense with text (no numbered sense or Defn: paragraph)
+  790374	SMILAX	no sense with text (no numbered sense or Defn: paragraph)
+  800418	SOUTH; SOUTHERLY	headline form 'South` south"er*ly.' does not match the headword
+  801852	SPARK COIL	no sense with text (no numbered sense or Defn: paragraph)
+  803479	SPECTROGRAPH	no sense with text (no numbered sense or Defn: paragraph)
+  808085	SPLENIAL	no sense with text (no numbered sense or Defn: paragraph)
+  808162	SPLENOTOMY	no sense with text (no numbered sense or Defn: paragraph)
+  809384	SPOROCARP	no sense with text (no numbered sense or Defn: paragraph)
+  809418	SPOROPHORE	no sense with text (no numbered sense or Defn: paragraph)
+  810015	SPRAT	no sense with text (no numbered sense or Defn: paragraph)
+  811971	SQUAMOSE; SQUAMOUS	headline form 'Squa*mose" or' does not match the headword
+  819540	STEMMA	no sense with text (no numbered sense or Defn: paragraph)
+  822642	STIPE	no sense with text (no numbered sense or Defn: paragraph)
+  828947	STROBILA	no sense with text (no numbered sense or Defn: paragraph)
+  829606	STRUCTURAL STEEL	no sense with text (no numbered sense or Defn: paragraph)
+  833554	SUBLINGUAL	no sense with text (no numbered sense or Defn: paragraph)
+  841767	SUPINATION	no sense with text (no numbered sense or Defn: paragraph)
+  846636	SWAY BAR	no sense with text (no numbered sense or Defn: paragraph)
+  848870	SYCAMORE	no sense with text (no numbered sense or Defn: paragraph)
+  849027	SYENITE	no sense with text (no numbered sense or Defn: paragraph)
+  849937	SYMPHYSIS	no sense with text (no numbered sense or Defn: paragraph)
+  852117	TABLEAU VIVANT	headline form 'Ta`bleau" vi`vant"; pl. Tableaux vivants.' does not match the headword
+  852134	TABLE D'HOTE	headline form 'Ta"ble d\'hôte"; pl. Tables d\'hôte.' does not match the headword
+  854509	TALLITH	no sense with text (no numbered sense or Defn: paragraph)
+  855105	TAMPICO FIBER; TAMPICO FIBRE	headline form 'Tam*pi"co fi"ber or; Tam*pi"co fi"bre' does not match the headword
+  855158	TAM-'-SHANTER	headline form 'Tam`-o\'-shan"ter' does not match the headword
+  855439	TANGENT WHEEL	no sense with text (no numbered sense or Defn: paragraph)
+  855539	TANGO	no sense with text (no numbered sense or Defn: paragraph)
+  860556	TELETHERMOGRAPH	no sense with text (no numbered sense or Defn: paragraph)
+  866964	THALIA	no sense with text (no numbered sense or Defn: paragraph)
+  867082	THALWEG	no sense with text (no numbered sense or Defn: paragraph)
+  869380	THERMONEUROSIS	no sense with text (no numbered sense or Defn: paragraph)
+  869491	THERMOTAXIS	no sense with text (no numbered sense or Defn: paragraph)
+  870680	THIRD RAIL	no sense with text (no numbered sense or Defn: paragraph)
+  872837	THROMBUS	no sense with text (no numbered sense or Defn: paragraph)
+  876016	TIL SEED	no sense with text (no numbered sense or Defn: paragraph)
+  880038	TOM ' BEDLAM	headline form 'Tom o\' Bed"lam' does not match the headword
+  882884	TORSK	no sense with text (no numbered sense or Defn: paragraph)
+  885503	TRACTION WHEEL	no sense with text (no numbered sense or Defn: paragraph)
+  889365	TRAPEZOHEDRON	no sense with text (no numbered sense or Defn: paragraph)
+  892819	TRIDACTYL; TRIDACTYLE	headline form 'Tri*dac"tyl Tri*dac"tyle' does not match the headword
+  892996	TRIERARCH	no sense with text (no numbered sense or Defn: paragraph)
+  894301	TRIOSE	no sense with text (no numbered sense or Defn: paragraph)
+  894883	TRIPSIS	no sense with text (no numbered sense or Defn: paragraph)
+  895299	TRITUBERCULAR	no sense with text (no numbered sense or Defn: paragraph)
+  902420	TUSSAH; TUSSEH	headline form 'Tus"sah Tus"seh' does not match the headword
+  904095	TWO-THROW	no sense with text (no numbered sense or Defn: paragraph)
+  905941	UMBELLIFEROUS	no sense with text (no numbered sense or Defn: paragraph)
+  923921	VACUOMETER	no sense with text (no numbered sense or Defn: paragraph)
+  926930	VARSOVIENNE	no sense with text (no numbered sense or Defn: paragraph)
+  929019	VENENATION	headline form 'Ven`en*na"tion' does not match the headword
+  930275	VERBOSITY	headline form 'Ver*bos"i*ty n.; pl. Verbosities.' does not match the headword
+  930404	VERDITER	no sense with text (no numbered sense or Defn: paragraph)
+  931969	VERY'S NIGHT SIGNALS; VERY NIGHT SIGNALS; VERY'S LIGHT SIGNALS; VERY	headline form 'LIGHT SIGNALS' does not match the headword
+  934912	VINE	no sense with text (no numbered sense or Defn: paragraph)
+  939506	VOLVULUS	no sense with text (no numbered sense or Defn: paragraph)
+  941368	WAHOO	no sense with text (no numbered sense or Defn: paragraph)
+  941462	WAIMENT	headline form 'Wai"ment. v. &' does not match the headword
+  941749	WAIT--WHILE	headline form 'Wait"-a-while`' does not match the headword
+  946317	WATER CROW	no sense with text (no numbered sense or Defn: paragraph)
+  950524	WEEPING TREE	no sense with text (no numbered sense or Defn: paragraph)
+  950567	WEET-WEET	no sense with text (no numbered sense or Defn: paragraph)
+  953086	WHEAT SAWFLY	no sense with text (no numbered sense or Defn: paragraph)
+  953123	WHEDER	headline form 'Whed"er pron. &' does not match the headword
+  955368	WHISKY RING; WHISKEY RING	headline form 'Whisky' does not match the headword
+  956150	WHITE LIST	no sense with text (no numbered sense or Defn: paragraph)
+  957419	WIDAL'S TEST; WIDAL TEST; WIDAL'S REACTION; WIDAL REACTION	headline form 'Wi*dal\'s"' does not match the headword
+  962560	WOMAN	headline form 'Wom"an n.; pl. Women.' does not match the headword
+  963511	WOOD PARTRIDGE	no sense with text (no numbered sense or Defn: paragraph)
+  967484	XANTHOGEN	no sense with text (no numbered sense or Defn: paragraph)
+  967667	XENOGENESIS	no sense with text (no numbered sense or Defn: paragraph)
+  967754	XERODERMA	no sense with text (no numbered sense or Defn: paragraph)
+  968096	XYLOPHAGOUS	no sense with text (no numbered sense or Defn: paragraph)
+  969385	YELDRIN; YELDRINE	headline form 'Yel"drin or; Yel"drine' does not match the headword
+  969605	YELLOWHAMMER	no sense with text (no numbered sense or Defn: paragraph)
+  971203	YUCCA BORER	no sense with text (no numbered sense or Defn: paragraph)
+  973254	ZOON; ZOOEN	no sense with text (no numbered sense or Defn: paragraph)
+  973566	ZUIAN	headline form 'Zu"ñi*an' does not match the headword
+  973711	ZYGOMA	no sense with text (no numbered sense or Defn: paragraph)
+  973869	ZYMOSIS	no sense with text (no numbered sense or Defn: paragraph)
+  973897	ZYTHUM	headline form 'Zy"thumn.' does not match the headword
+
+Warning: irregular numbering (source line, headword, numbers):
+  6687	ACCOUNT	[1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4]
+  10617	ADAM	[1, 2, 1, 2]
+  12602	ADMEASURE	[1, 2, 2, 3]
+  14694	ADVERTISE	[4]
+  16383	AFFINITY	[1, 2, 2, 4, 5, 6]
+  20114	AIR	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 12, 14, 15]
+  21868	ALDERMAN	[1, 3]
+  27087	AMARANTH	[1, 2, 2]
+  35528	ANNUAL	[1, 2, 2]
+  43753	APPRECIATE	[1, 3, 4]
+  44650	A PRIORI	[1, 3]
+  46763	ARCHITECTURE	[1, 3]
+  57045	AT ONE	[1, 2, 3, 2]
+  95566	BODY	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 1, 2]
+  103606	BRAND	[1, 2, 3, 4, 1, 2]
+  123742	CANONIZE	[1, 2, 2]
+  142540	CHEER	[1, 2, 3, 1, 5]
+  147710	CHRISTIAN	[1, 3, 4]
+  165502	COMFORT	[1, 2, 3, 4, 5, 1, 2]
+  174819	CONFIDENCE	[1, 2, 3, 4, 2, 3, 4, 5]
+  221765	DEGREE	[1, 2, 3, 4, 5, 5, 7, 8, 9, 10, 11]
+  223768	DELPHINUS	[1, 1, 2]
+  229532	DESCENT	[1, 2, 3, 2, 5, 6, 7, 8, 9, 10]
+  231395	DESTRUCTION	[1, 2, 2]
+  233043	DEVIATION	[1, 2, 2]
+  234863	DIALYSIS	[1, 1, 2, 3, 4]
+  237653	DIG	[1, 4, 2]
+  244341	DISCREDIT	[1, 2, 2]
+  246066	DISH	[1, 2, 3, 1, 2]
+  255677	DOG-FOX	[6]
+  256380	DOLPHIN	[1, 2, 3, 4, 5, 2]
+  256603	DOMESTIC	[1, 4, 3, 4, 5]
+  259610	DOWEL	[1, 2, 1]
+  261283	DRAUGHT	[1, 2, 3, 4, 5, 6, 4, 7, 8, 9, 7]
+  263937	DROP	[1, 2, 3, 4, 5, 6, 7, 4]
+  266635	DUMPY	[1, 2, 1, 2]
+  269370	EARTH	[1, 2, 3, 4, 5, 6, 7, 8, 7]
+  270264	EAVES	[1, 2, 3, 1]
+  275629	ELECTRIC; ELECTRICAL	[1, 2, 3, 2]
+  281672	EN-	[1, 2, 1, 2, 3, 4, 5]
+  285069	ENGLISH	[8]
+  287144	ENTER	[1, 2, 3, 4, 5, 6, 7, 8, 4, 9, 10, 11]
+  287965	ENTOMOPHAGA	[1, 2, 2, 3]
+  288461	ENTRY	[1, 2, 3, 4, 5, 5]
+  305583	EXPLODENT	[1, 2, 2]
+  305600	EXPLOIT	[1, 2, 2, 3]
+  310972	FAIRY	[1, 2, 3, 5]
+  339052	FORMER	[1, 3, 3]
+  340138	FORWARDNESS	[2, 3, 3, 5]
+  346494	FRUIT	[1, 2, 3, 4, 6, 6]
+  357129	GENERAL	[1, 2, 3, 4, 5, 6, 7, 1, 2, 3, 4, 5]
+  370148	GRADATION	[1, 2, 3, 4, 6]
+  373616	GRECIAN	[1, 2, 6]
+  373765	GREEK CALENDAR	[1, 1, 2]
+  377738	GUDGEON	[1, 2, 3, 4, 6]
+  404006	HOMOLOGOUS	[3]
+  408148	HOUSE	[1, 2, 8]
+  408801	HUB	[1, 2, 3, 4, 5, 6, 3, 7]
+  418154	ILEAC	[1, 2, 1]
+  441483	INNER	[1, 3]
+  451161	INTOLERABLE	[1, 4]
+  451364	INTOXICATION	[1, 2, 2]
+  462423	JIG	[1, 3, 4, 5, 6]
+  501772	LOST	[1, 2, 3, 5, 6, 7, 8, 9]
+  572707	NYULA	[1, 2, 1, 2, 3]
+  637422	PLASTRON	[1, 3, 3, 4]
+  653459	PRACTICE	[1, 2, 2, 4, 5, 6]
+  683843	QUEEN	[1, 2, 3, 4, 6]
+  694010	REACH	[1, 2, 3, 4, 5, 6, 7, 9, 10]
+  694662	REAL	[1, 2, 5, 4, 5]
+  714515	RESPECT	[1, 2, 3, 4, 5, 4, 7]
+  722801	RIGHT	[1, 2, 3, 2, 5, 6, 7, 8, 9, 10]
+  777451	SIDE	[1, 3, 4, 5, 6, 7, 8]
+  813551	STAFF	[11, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+  827224	STREAMER	[1, 3, 3]
+  835418	SUBTILE	[1, 2, 3, 5, 5]
+  844635	SURVIVORSHIP	[1, 1]
+  887132	TRANSCEND	[1, 2, 8]
+  887731	TRANSFUSE	[1, 3]
+  900438	TUNNEL	[1, 3]
+  939110	VOLUME	[1, 2, 4, 4, 5]
+  943529	WARBLE	[1, 3, 3]
+
+Warning: unrecognised paragraphs kept as plain notes (source line, headword, first 80 characters):
+  32	A	A per se Etym: (L. per se by itself), one preëminent; a nonesuch. [Obs.] O fair 
+  2236	ABLY	-ABLY -a*bly(#).
+  5268	ACCENSOR	Ch.)
+  8018	A CHEVAL	A position à cheval on a river is not one which a general willingly assumes. Swi
+  11901	ADIOS	This word is often pronounced å*de"os, but the Spanish accent, though weak, is o
+  13325	ADONAI	The later Jews used its vowel points to fill out the tetragrammaton Yhvh, or Ihv
+  14558	ADVERSARY	or resist them; a member of an opposing or hostile party; an opponent; an antago
+  15123	AEOLIAN	volume of sound, etc., by forcing a stream of air upon the strings. Moore. -- Æo
+  16219	AFFEERER; AFFEEROR	Law)
+  17391	AFRIT; AFRITE; AFREET	Myth.)
+  18489	AGGREGATE	The aggregate testimony of many hundreds. Sir T. Browne.
+  18514	AGGREGATE	It is many times hard to discern to which of the two sorts, the good or the bad,
+  18534	AGGREGATE	In an aggregate the particulars are less intimately mixed than in a compound.
+  18554	AGGREGATION	Each genus is made up by aggregation of species. Carpenter.
+  18594	AGGRESS	Their military aggresses on others. Sir M. Hale.
+  18616	AGGRESSIVE	No aggressive movement was made. Macaulay.
+  22076	ALEHOOF	ground ivy, "in old MSS. heyhowe, heyoue, haihoue, halehoue." [Prior].
+  23415	ALKERMES	Pharmacy)
+  23931	ALLELOMORPH	As we know that the several unit characters are of such a nature that any one of
+  25470	ALNAGE	Eng. Law)
+  29413	AMORTISE; AMORTISATION; AMORTISABLE; AMORTISEMENT	A*mor"tise*ment, n.
+  30395	AMT	Each of the provinces [of Denmark] is divided into several amts, answering . . .
+  30785	ANA	-ANA -a"na. [The neut. pl. ending of Latin adjectives in -anus.]
+  30885	ANABRANCH	Such branches of a river as after separation reunite, I would term anastomosing 
+  31973	ANASTOMOSE	Etym: [Cf. F. anastomoser, fr. anastomose. See Anastomosis.] (Anat. & Bot.)
+  32206	ANCE	-ANCE -ance. [F. -ance, fr. L. -antia and also fr. -entia.]
+  32759	ANCONY	-ANCY -an*cy. Etym: [L. -antia.-]
+  32941	ANDROMEDE; ANDROMED	A shower of these meteors takes place every year on November 27th or 28th. The A
+  35470	ANNOY	Etym: [OE. anoien, anuien, OF. anoier, anuier, F. ennuyer, fr. OF. anoi, anui, e
+  35868	ANOETIC	Presentation considered as having an existence relatively independent of thought
+  36491	ANT-	-ANT -ant. Etym: [F. -ant, fr. L. -antem or -entem, the pr. p. ending; also some
+  36714	ANTARTHRITIC	Counteracting or alleviating gout. -- n.
+  37016	ANTE MORTEM	The ante-mortem statement, or dying declaration made in view of death, by one in
+  40388	APERCU	The main object being to develop the several aperçus or insights which furnish t
+  41140	APOCRYPHA	Etym: [L. apocryphus apocryphal, Gr.
+  41227	APODEICTIC; APODICTIC; APODEICTICAL; APODICTICAL	Etym: [L. apodicticus, Gr.
+  41362	APOLLINARIAN	Antiq.)
+  45253	ARABA	The araba of the Turks has its sides of latticework to admit the air Balfour (Cy
+  46162	ARCH	-ARCH -arch. [Gr. 'archo`s chief, commander, 'a`rchein to rule. See Arch, a.]
+  47072	ARCUBUS	-ARD; -ART -ard, -art.
+  48098	ARIEL; ARIEL GAZELLE	(Zoöl.) A)
+  49343	ARRAIGN	Eng. Law)
+  50275	ART	10 10
+  50641	ARTHURIAN	In magnitude, in interest, and as a literary origin, the Arthurian invention dwa
+  55921	ASTROPHYSICS	Its observations are made with the spectroscope, bolometer, etc., usually in con
+  56299	ATE	-ATE -ate. Etym: [From the L. suffix -atus, the past participle ending of verbs 
+  56368	ATHANASIA; ATHANASY	Is not a scholiastic athanasy better than none Lowell.
+  56457	ATHENEUM; ATHENAEUM	1 (Gr. Antiq.)
+  56649	ATIMY	-ATION -a"tion. Etym: [L. -ationem. See -tion.]
+  58522	ATTORNEY-GENERAL	general). (Law)
+  60760	AUTOCHTHON	[L., fr. Gr.
+  64171	AZYMOUS	B
+  64460	BABUL; BABOOL	In place of Putney's golden gorse The sickly babul blooms. Kipling.
+  65760	BADAUD	A host of stories . . . dealing chiefly with the subject of his great wealth, an
+  65959	BAETULUS	All the evidence goes to prove that these menhirs are bætuli, i. e., traditional
+  71200	BARRETTER	Teleg.)
+  72918	BAT	leather), Icel. blaka to flutter.] (Zoöl.)
+  75956	BEAUFORT'S SCALE	The full scale is as follows: -- 0, calm; 1, light air; 2, light breeze; 3, gent
+  76220	BECAUSE	Syn, -- Because, For, Since, As, Inasmuch As. These particles are used, in certa
+  81323	BERGAMOT	1 . (Bot.) (a) A tree of the Orange family (Citrus bergamia), having a roundish 
+  82484	BESTIARY	A bestiary . . . in itself one of the numerous mediæval renderings of the fantas
+  84002	BIBELOT	Her pictures, her furniture, and her bibelots. M. Crawford.
+  85576	BILIN	Chem.)
+  85923	BILLET	Etym: [From Billet a ticket.] (Mil.)
+  86097	BILLYCOCK; BILLYCOCK HAT	Little acquiesced, and Ransome disguised him in a beard, and a loose set of clot
+  86844	BIOSCOPE	Bagman's Bioscope: Various Views of Men and Manners. [Book Title.] W. Bayley (18
+  87854	BISHOP	Etym: [From the name of the scoundrel who first practiced it. Youatt.] (Far.)
+  88381	BITO; BITO TREE	The hard yellowish white wood is made into plows in Abyssinia; the bark is used 
+  90484	BLASPHEMY	-BLAST -blast. Etym: [Gr. sprout, shoot.]
+  91504	BLESS	Bless me! Bless us! an exclamation of surprise. Milton. -- To bless from, to sec
+  93690	BLUE	For his religion . . . 'T was Presbyterian, true blue. Hudibras.
+  97234	BOND	husband, bouseholder, from Icel. b husbandman, for b, fr. b to dwell. See Boor, 
+  97832	BOOBY	Booby hatch (Naut.), a kind of wooden hood over a hatch, readily removable. -- B
+  98090	BOOKLAND; BOCKLAND	Eng. Law)
+  98967	BORDLAND	Eng. Law)
+  98993	BORD SERVICE	Eng. Law)
+  101337	BOWDLERIZE	It is a grave defect in the splendid tale of Tom Jones . . . that a Bowlderized 
+  102917	BRAHMANIC; BRAHMANICAL; BRAHMAN-ICAL; BRAHMINIC; BRAHMINICAL;	Brah*man"ic, -ic*al , Brah*min"ic (, *ic*al (, a.
+  103629	BRANDENBURG	He wore a coat . . . trimmed with Brandenburgs. Smollett.
+  103887	BRASHY	Our progress was not at all impeded by the few soft, brashy floes that we encoun
+  104239	BRAWL	[OE. braulen to quarrel, boast, brallen to cry, make a noise; cf. LG. brallen to
+  105116	BREAM	[Cf. Broom, and G. ein schiff brennen.] (Naut.)
+  106023	BRETWALDA	Hist.)
+  113165	BUNDOBUST	He has more bundobust than most men. Kipling.
+  113786	BURGAGE	Law)
+  113885	BURGHBRECH	Law)
+  115053	BUSHIDO	Unformulated, Bushido was and still is the animating spirit, the motor force of 
+  116292	BUZZ	I found the whole room in a buzz of politics. Addison. There is a buzz all aroun
+  116837	BYZANTINE	C
+  120991	CALUMNIOUS	Syn: Slanderous; defamatory; scurrilous; opprobrious; derogatory; libelous; abus
+  121277	CAMARADERIE	The spirit of camaraderie is strong among these riders of the plains. W. A. Fras
+  122368	CANARY	Canary bird flower (Bot.), a climbing plant (Tropæolum peregrinum) with canary-c
+  125110	CAPITAL	Capital letter Etym: [F, lettre capitale] (Print.), a leading or heading letter,
+  127307	CARDINAL	Cardinal bird, or Cardinal grosbeak (Zoöl.), an American song bird (Cardinalis c
+  127498	CAREEN	Etym: [OF. cariner, F. caréner, fr. OF. carène, the bottom of a ship, keel, fr. 
+  129740	CASA	I saw that Enriquez had made no attempt to modernize the old casa, and that even
+  132124	CATCH CROP	Radishes . . . are often grown as a catch crop with other vegetables. L. H. Bail
+  132246	CATCHY	It [the fox's scent] is . . . flighty or catchy, if variable. Encyc. of Sport.
+  134398	CEIL	[From an older noun, fr. F. ciel heaven, canopy, fr. L. carlum heaven, vault, ar
+  135573	CENTIME	Coinage)
+  137654	CHA	A pot with hot water . . . made with the powder of a certain herb called chaa, w
+  139651	CHANSON DE GESTE	Langtoft had written in the ordinary measure of the later chansons de geste. Sai
+  139743	CHANTEY	May we lift a deep-sea chantey such as seamen use at sea Kipling.
+  141269	CHARTOGRAPHER; CHARTOGRAPHIC; CHARTOGRAPHY	etc.
+  143280	CHERUB	used. Etym: [Heb. kerub.]
+  143572	CHEVAL-DE-FRISE	Etym: [F.; cheval horse + Frise Friesland, where it was first used.] (Mil.)
+  144886	CHIMINAGE	Law)
+  145318	CHIPPENDALE	It must be clearly and unmistakably understood, then, that, whenever painted (th
+  147352	CHORTLE	O frabjous day ! Callooh ! Callay ! He chortled in his joy. Lewis Carroll.
+  147522	CHOWCHOW	Chowchow chop, the last lighter containing the small sundry packages sent off to
+  147592	CHRISM	(Gr. & R. C. Church
+  148690	CHUCK	Chuck farthing, a play in which a farthing is pitched into a hole; pitch farthin
+  149144	CHURR	That's the churring of the nightjar. Hall Caine.
+  149881	CINEMATOGRAPH	The cinematograph, invented by Edison in 1894, is the result of the introduction
+  150610	CIRCULATE	Circulating decimal. See Decimal. -- Circulating library, a library whose books 
+  153587	CLATCH	Eng.)
+  154774	CLEOPATRA'S NEEDLE	Some writers consider that only the obelisk now in Central Park is properly call
+  155337	CLIMACTIC	A fourth kind of parallelism . . . is still sufficiently marked to be noticed by
+  156722	CLOTH	it is Clothes (klothz or kloz). Etym: [OE. clath cloth, AS. cla\'ed cloth, garme
+  159557	COCKATRICE	That bare vowel, I, shall poison more Than the death-darting eye of cockatrice. 
+  161544	COIGN	From some shielded nook or coign of vantage. The Century.
+  162534	COLLATERAL	Collateral assurance, that which is made, over and above the deed itself. -- Col
+  162886	COLLECTIVITY	The proposition to give work by the collectivity is supposed to be in contravent
+  162936	COLLEEN	Of all the colleens in the land Sweet Mollie is the daisy. The Century.
+  163154	COLLIMATE	Collimating eyepiece, an eyepiece with a diagonal reflector for illumination, us
+  163717	COLONIALISM	The last tie of colonialism which bound us to the mother country is broken. Bran
+  165401	COMETHER	To put the, or one's, comether on, to exercise persuasion upon; to get under one
+  165580	COMFORTABLY	Speak ye comfortably to Jerusalem. Is. xl. 2.
+  165813	COMMAND	Word of command (Mil.), a word or phrase of definite and established meaning, us
+  165960	COMMANDO	The war bands, called commandos, have played a great part in the . . . military 
+  173947	CONDUCTANCE	Conductance is an attribute of any specified conductor, and refers to its shape,
+  174115	CONDYLOMA; CONDYLOME	Etym: [NL. condyloma, fr. Gr. -oma.] (Med.)
+  175230	CONFLAGRATION	Till one wide conflagration swallows all. Pope.
+  175239	CONFLATE	The State-General, created and conflated by the passionate effort of the whole n
+  175257	CONFLICT	As soon as he [Atterbury] was himself again, he became eager for action and conf
+  175283	CONFLICT	Fire and water conflicting together. Bacon.
+  175311	CONFLICTING	Torn with sundry conflicting passions. Bp. Hurd.
+  175325	CONFLUENCE	New York stood at the confluence of two rivers. Bancroft.
+  175344	CONFLUENT	These confluent steams make some great river's head. Blackmore.
+  175370	CONFLUX	The general conflux and concourse of the whole people. Clarendon.
+  175400	CONFORM	Care must be taken that the interpretation be every way conform to the analogy o
+  175409	CONFORM	A rule to which experience must conform. Whewell.
+  175425	CONFORM	Demand of them wherefore they conform not themselves unto the order of the churc
+  175445	CONFORMABLE	The fragments of Sappho give us a taste of her way of writing perfectly conforma
+  175475	CONFORMABLY	Conformably to the law and nature of God. Bp. Beveridge.
+  175493	CONFORMATION	The conformation of our hearts and lives to the duties of true religion and mora
+  175525	CONFORMIST	A cheeful conformist to your judgment. Jer.Taylor.
+  175535	CONFORMITY	By our conformity to God. Tillotson.
+  175564	CONFOUND	They who strip not ideas from the marks men use for them, but confound them with
+  175611	CONFOUNDED	A cloudy and confounded philosopher. Cudworth.
+  175633	CONFOUNDEDNESS	Their witty descant of my confoundedness. Milton.
+  175657	CONFRATERNITY	These live in one society and confraternity. Stow.
+  175683	CONFRONT	We four, indeed, confronted were with four In Russian habit. Shak.
+  175727	CONFRONTER	A confronter in authority. Speed.
+  175795	CONFUSE	A universal hubbub wild Of stunning sounds and voices all confused. Milton.
+  175834	CONFUSION	The confusion of thought to which the Aristotelians were liable. Whewell.
+  175871	CONFUTABLE	A conceit . . . confutable by daily experience. Sir T.Browne.
+  175895	CONFUTE	Satan stood . . . confuted and convinced Of his weak arguing fallacious drift. M
+  175940	CONGE	I have congeed with the duke, done my adieu with his nearest. Shak.
+  175950	CONGE	Should she pay off old Briggs and give her her congé Thackeray.
+  175979	CONGEAL	A vapory deluge lies to snow congealed. Thomson.
+  175995	CONGEAL	Lest zeal, now melted . . . Cool and congeal again to what it was. Shak.
+  176016	CONGEALMENT	Wash the congealment from your wounds. Shak.
+  176026	CONGEE	And unto her his congee came to take. Spenser.
+  176034	CONGEE	Congee discharges, rice water discharges. Dunglison. -- Congee water, water in w
+  176046	CONGELATION	The capillary tubes are obstructed either by outward compression or congelation 
+  176065	CONGENER	The cherry tree has been often grafted on the laurel, to which it is a congener.
+  176099	CONGENIAL	Congenial souls! whose life one avarice joins. Pope.
+  176115	CONGENIALITY	If congeniality of tastes could have made a marriage happy, that union should ha
+  179533	CONSORT	Prince consort, the husband of a queen regnant. -- Queen consort, the wife of a 
+  180826	CONSUMER'S SURPLUS	The price which a person pays for a thing can never exceed, and seldom comes up 
+  181164	CONTE	The conte (sic) is a tale something more than a sketch, it may be, and something
+  181181	CONTEK	2 2
+  183048	CONTRAPTION	We all remember some of the extraordinary contraptions which have been thus evol
+  183328	CONTRECOUP	(med.)
+  188274	CORNET-A-PISTON	piston. Etym: [F.] (Mus.)
+  188440	CORNO DI BASSETTO	basseto. Etym: [It.] (Mus.)
+  188606	COROLLIFLORAL; COROLLIFLOROUS	Etym: [Corolla + L. flos, floris, flower.] (Bot.)
+  188771	CORONEL	Armor)
+  190363	CORUNDUM	[From Hind. kurand corundum stone.] (Min.)
+  190449	CORYBANT	[L. Corybas, Gr.
+  190516	CORYPHEUS	[L. coryphaeus, fr. Gr. (Gr. Antiq.)
+  190702	COSMOGONAL; COSMOGONIC; COSMOGONICAL	Cos`mo*gon"ic*al (-gn"-kal), a.
+  193540	COUNTOR	Eng. Law)
+  195128	COVET	Syn: To long for; desire; hanker after; crave.
+  197590	CRAWFISH; CRAYFISH	Etym: [Corrupted fr. OE. crevis, creves, OF. crevice, F. , fr. OHG. krebiz crab,
+  198828	CREMATORIUM; CREMATORY	Crematoriums (-Crematories (-r. Etym: [NL. crematorium, fr. L. cremator.]
+  199324	CREST	His legs bestrid the ocean, his reared arm Crested the world. Shak. Mid groves o
+  200558	CRISTATE	& Zoöl.)
+  201038	CROCONIC	Croconic acid (Chem.), a yellow crystalline substance, C5O3(OH)2, obtained from 
+  204336	CRYPTOGAMIAN; CRYPTOGAMIC; CRYPTOGAMOUS	Cryp*to"gam*ous a.
+  204370	CRYPTOGRAPHIC; CRYPTOGRAPHICAL	a.
+  205475	CUL-DE-SAC	kulz`-). Etym: [ F., lit., bottom of a bag.]
+  206230	CUMULATIVE	Cumulative action (Med.), that action of certain drugs, by virtue of which they 
+  208456	CUSSEDNESS	In her opinion it was all pure "cussedness." Mrs. Humphry Ward.
+  210659	CZECHS	D
+  211610	DALLES	The place below, where the compressed river wound like a silver thread among the
+  213891	DATE LINE	Speaking generally, the date line coincides with the meridian 180º from Greenwic
+  214317	DAWN	[OE. dawnen, dawen, dagen, daien, AS. dagian to become day, to dawn, fr. dæg day
+  214354	DAY	Anniversary day. See Anniversary, n. -- Astronomical day, a period equal to the 
+  214909	DEADEN	As harper lays his open palm Upon his harp, to deaden its vibrations. Longfellow
+  216699	DECASTERE	System)
+  216974	DECEMBRIST	He recalls the history of the decembrists . . . that gallant band of revolutioni
+  218973	DECULASSEMENT; DECULASSMENT	Dec`u*lass"ment. (Ordnance)
+  221444	DEGAGE	A graceful and dégagé manner. Poe.
+  222570	DELE	[From the preceding word.] (Print.)
+  228291	DEPTH	Depth of a sail (Naut.), the extent of a square sail from the head rope to the f
+  228956	DERK	-DERM -derm. Etym: [See Derm, n.]
+  233580	DEVOTE	Thy servant who is devoted to thy fear. Ps. cxix. 38. They devoted themselves un
+  236382	DICTOGRAPH	The makers of this instrument spell it dictograph.
+  236717	DIE	(diz). Etym: [OE. dee, die, F. dé, fr. L. datus given, thrown, p. p. of dare to 
+  237668	DIGAMMA	Gram.)
+  238660	DILETTANTE	The true poet is not an eccentric creature, not a mere artist living only for ar
+  240814	DIRECT-COUPLED	Direct-coupled antenna (Wireless Teleg.), an antenna connected electrically with
+  241792	DISAPPEARING	Disappearing carriage (Ordnance), a carriage for heavy coast guns on which the g
+  242222	DISBAND	When both rocks and all things shall disband. Herbert. Human society would in a 
+  242763	DISCHARGE	Charge and discharge. (Equity Practice) See under Charge, n. -- Paralytic discha
+  243857	DISCORDANT	2.] (Mus.)
+  245044	DISEMBARK	Go to the bay, and disembark my coffers. Shak.
+  256320	DOLOMITE	Min.)
+  256455	DOLVEN	-DOM -dom (.
+  257245	DONGOLA	Dongola kid, D. leather, leather made by the Dongola process. -- D. process, a p
+  257258	DONI	Balfour.
+  257303	DONNEE	That favorite romance donnée of the heir kept out of his own. Saintsbury.
+  257881	DORMY	A player who is dormy can not be beaten, and at the worst must halve the match. 
+  258195	DOSS HOUSE	They [street Arabs] consort together and sleep in low doss houses where they mee
+  258634	DOUBLE	2.); among pressmen, a sheet that is twice pulled, and blurred.
+  258788	DOUBLEGANGER	Either you are Hereward, or you are his doubleganger. C. Kingsley.
+  259693	DOWN	Down tree (Bot.), a tree of Central America (Ochroma Lagopus), the seeds of whic
+  262524	DRESS	And the Lord God took the man, and put him into the garden of Eden to dress it. 
+  263638	DROGUE	6, and Drag sail, under Drag, n.
+  266087	DULCAMARA	3 (a).
+  268572	DZIGGETAI	E
+  270511	EBULLIOSCOPE	Chem.)
+  271438	ECONOMY	I have no other notion of economy than that it is the parent to liberty and ease
+  271881	ECZEMATOUS	-ED -ed.
+  272631	EDULIOUS	-EE -ee. Etym: [Formed on the F. p. p. ending -é, masc.]
+  276022	ELECTROLYTE	Chem.)
+  276584	ELEMENT	The Elements -------------------------------------------------------- ----Name |
+  277313	ELIMINATION	4.]
+  278217	ELZEVIR	'EM 'Em.
+  278881	EMBER	Ember days (R. C. & Eng. Ch.), days set apart for fasting and prayer in each of 
+  281206	EMPRESSEMENT	He grasped my hand with a nervous empressement. Poe.
+  281672	EN-	-EN -en.
+  282011	EN BLOC	En bloc they are known as "the herd". W. A. Fraser.
+  282140	ENCAVE	-ENCE -ence. Etym: [F. -ence, L. -entia.]
+  282930	ENCURTAIN	-ENCY -en*cy. Etym: [L. -entia.]
+  283036	END	An end. (a) On end; upright; erect; endways. Spenser (b) To the end; continuousl
+  284277	ENERGY	Accumulation, Conservation, Correlation, and Degradation of energy, etc. (Physic
+  284361	ENFACE	Enfaced paper (Com.), Indian government securities the principal and interest of
+  286959	ENT-	-ENT -ent. Etym: [F. -ent, L. -ens, -entis.]
+  287402	ENTERTAIN	You, sir, I entertain for one of my hundred. Shak.
+  288117	ENTOURAGE	The entourage and mode of life of the mikados were not such as to make of them a
+  292748	EQUUS	-ER -er
+  294325	ESCAMBIO	Law)
+  294483	ESCARPMENT	-ESCENT -es"cent. Etym: [From the ending -escens, -entis, of the p. pr. of incho
+  295269	ESPY	-ESQUE -esque. Etym: [F., fr. It. -isco. Cf. -ish.]
+  295317	ESQUISSE	-ESS -ess. Etym: [OF. -esse, LL. -issa, Gr.
+  295552	EST	-EST -est. Etym: [AS. -ost, -est; akin to G. -est, -ist, Icel. -astr, - str, Got
+  295805	ESTHETE; ESTHETIC; ESTHETICAL; ESTHETICS	n. etc.
+  295960	ESTOP	Etym: [OF. estoper to stop, plug, close, F. étouper, LL. stuppare to close with 
+  296194	ESURINE	-ET -et. Etym: [F. -et, masc., -ette, fem. Cf. -let.]
+  305953	EX POST FACTO; EX POSTFACTO	Ex post facto law, a law which operates by after enactment. The phrase is popula
+  307330	EXTINE	(bot.)
+  310120	FACULTATIVE	In short, there is no facultative plurality in the mind; it is a single organ of
+  310620	FAINEANCE; FAINEANCY	The mask of sneering faineance was gone. C. Kingsley.
+  311337	FALDFEE	Eng. Law)
+  313290	FARANDOLE	I have pictured them dancing a sort of farandole. W. D. Howells.
+  315860	FAY	[OE. feien, v.t. & i., AS. fegan to join, unite; akin to OS. fogian, D. voegen, 
+  316073	FEARSOME	2
+  316658	FECK	He had a feck o' books wi' him. R. L. Stevenson.
+  319170	FEROUS	-FEROUS -fer*ous. Etym: [L. -fer. fr. ferre to bear. See Bear to support.]
+  319273	FERRET	Making)
+  321267	FIDEJUSSION	Law)
+  321683	FIESTA	Even . . . a bullfight is a fiesta. Am. Dialect Notes.
+  322776	FILIPINO	Then there are Filipinos, -- "children of the country," they are called, -- who 
+  325935	FIVE	Five nations (Ethnol.), a confederacy of the Huron-Iroquois Indians, consisting 
+  329443	FLING	To fling about, to throw on all sides; to scatter. -- To fling away, to reject; 
+  329824	FLITE; FLYTE	The bird of Pallas has also a good "flyte" on the moral side . . . in his sugges
+  329879	FLITTING; FLYTTING	These "flytings" consisted of alternate torrents of sheer Billingsgate poured up
+  332982	FLYING	Flying army (Mil.) a body of cavalry and infantry, kept in motion, to cover its 
+  333112	FLYTRAP	1
+  335403	FOOZLE	She foozles all along the course. Century Mag.
+  337655	FORESTALL	An ugly serpent which forestalled their way. Fairfax. But evermore those damsels
+  338662	FORM	Good form or Bad form, the general appearance, condition or action, originally o
+  338938	FORMAT	The older manuscripts had been written in a much larger format than that found c
+  340278	FOSSICK	A man who has fossicked in nature's byways. D. Macdonald.
+  340556	FOUL	Foul anchor. (Naut.) See under Anchor. -- Foul ball (Baseball), a ball that firs
+  342813	FRAZZLE	Her hair was of a reddish gray color, and its frazzled and tangled condition sug
+  342825	FRAZZLE	My fingers are all scratched to frazzles. Kipling.
+  347294	FUGUIST	-FUL -ful. Etym: [See Full, a.]
+  349620	FUSE	etc.)
+  350121	FUZZY	-FY -fy. Etym: [Through French verbs in -fier, L. -ficare, akin to facere to do,
+  350156	FYRD; FYRDUNG	Hist.)
+  350164	FYTTE	G
+  350986	GAINSOME	'GAINST; GAINST Gainst, prep.
+  353490	GARAGE	Garage is recent in English, and has as yet acquired no settled pronunciation.
+  354868	GASTROINTESTINAL	Med.)
+  355068	GATCH	Gatch decoration, decoration in plaster often producing design of great beauty. 
+  356991	GEMUL	-GEN -gen. Etym: [(1) From Gr. -gen-, from the same root as ge`nos race, stock (
+  357129	GENERAL	Syn: Gen"er*al, n. Etym: [F. général. See General., a.]
+  357907	GENIUS	Genius loci ( Etym: [L.], the genius or presiding divinity of a place; hence, th
+  357974	GENOUILLERE	-GENOUS -ge*nous. Etym: [-gen + -ous.]
+  359487	GEROPIGIA	-GEROUS -ger*ous. Etym: [L. -ger, fr. gerere to bear, carry. See Jest.]
+  360075	GHIBELLINE	Hist.)
+  363391	GLEAN	[OE. glenen, OF. glener, glaner, F. glaner, fr. LL. glenare; cf. W. glan clean, 
+  363602	GLENGARRY; GLENGARRY BONNET	The long silk streamers of his Glengarry bonnet. L. Hutton.
+  364233	GLOBULIN	Chem.)
+  365576	GLYCOCOLL	Chem.)
+  366808	GOBSTICK	He . . . wrenched out the hook with the short wooden stick he called a "gobstick
+  367869	GONGORISM	Gongorism, that curious disease of euphuism, that broke out simultaneously in It
+  370923	GRALLOCH	-GRAM -gram. Etym: [Gr. a thing drawn or written, a letter, fr. gra`fein to draw
+  371913	GRAPEVINE	-GRAPH -graph ( Etym: [From Gr. gra`fein to write. See Graphic.]
+  372035	GRAPHOTYPE	-GRAPHY -gra*phy. Etym: [Gr. Graphic.]
+  372714	GRAVAMEN	-GRAVE -grave.
+  373027	GRAVING	l.
+  373679	GREE	grs), Grise, Grize (grz or grz), etc. Etym: [OF. gré, F. grade. See Grade.]
+  373765	GREEK CALENDAR	A fixed relation to the seasons was maintained by introducing an intercalary mon
+  375733	GROLIER	Grolier binding, a book binding decorated with a pattern imitated from those giv
+  376086	GROTESQUERY	Vileness, on the other hand, becomes grotesquerie, wonderfully converted into a 
+  379887	GYBE	[See Jibe.] (Naut.)
+  379913	GYMNASIARCH	Antiq.)
+  380649	GYVE	H
+  381045	HACHURE	Arts)
+  381743	HAEMOCHROMOMETER	Chem.)
+  383026	HALF-PENNY	Half-pennies(-pen*niz).
+  383380	HALLSTATT; HALLSTATTIAN	The Hallstattian civilization flourished chiefly in Carinthia, southern Germany,
+  387779	HATCHET	Hatchet face, a thin, sharp face, like the edge of a hatchet; hence: Hatchet-fac
+  388528	HAVIER	Haviers, or stags which have been gelded when young, have no horns. Encyc. of Sp
+  389214	HE	-HEAD -head, suffix.
+  392132	HEELPATH	The Cowles found convenient spiles sunk in the heelpath. The Century.
+  396559	HERTZIAN	Hertzian telegraphy, telegraphy by means of the Hertzian waves; wireless telegra
+  396798	HETAERA; HETAIRA	Antiq.)
+  398821	HIGHER CRITICISM	The comparison of the Hebrew and Greek texts . . . introduces us to a series of 
+  399217	HIKE	It's hike, hike, hike (march) till you stick in the mud, and then you hike back 
+  399235	HIKE	With every hike there's a few laid out with their hands crossed. Scribner's Mag.
+  400086	HIPPOPOTAMUS	[L., from Gr.Equine.] (Zoöl.)
+  400223	HIRE PURCHASE; HIRE PURCHASE AGREEMENT; HIRE AND PURCHASE AGREEMENT	purchase agreement. (Law)
+  402615	HOLLUSCHICKIE	The holluschickie are the seals that may legally be killed for their skins.
+  404953	HOO	-HOOD -hood. Etym: [OE. hod, had, hed, hede, etc., person, rank, order, conditio
+  405934	HORMONE	Chem.)
+  408183	HOUSECARL	Archæol.)
+  410508	HUNKERS	Sit on your hunkers -- and pray for the bridge. Kipling.
+  410524	HUNKY	He . . . began to shoot; began to get "hunky" with all those people who had been
+  412095	HYDROBILIRUBIN	Chem.)
+  412769	HYDROPHYLLIUM	[NL., fr. Gr. "y`dwr water + (Zoöl.)
+  413599	HYMN	[Cf. L. hymnire, Gr.
+  414693	HYPOCHONDRIUM	[L., fr. Gr. (Anat.)
+  414711	HYPOCLEIDIUM	[NL., fr. Gr. (Anat.)
+  415568	HYTHE	I
+  415756	IBIS	-IBLE -i*ble
+  415782	IBSENISM	-IC -ic. Etym: [L. -icus, Gr. ique.]
+  416494	ICOSITETRAHEDRON	-ICS -ics
+  416613	IDE	-IDE -ide. (Chem.)
+  418114	IHVH	Numerous attempts have been made to represent the supposed original form of the 
+  420588	IMMEDIATELY	8, Note.
+  421879	IMPASSE	The issue from the present impasse will, in all probability, proceed from below,
+  422280	IMPEDIMENTA	On the plains they will have horses dragging travoises, dogs with travoises, wom
+  423275	IMPI	As early as 1862 he crossed assagais with and defeated a Matabili impi (war band
+  426060	IN-	-IN -in.
+  427157	INCAMERATION	Ch.)
+  427524	INCAUTIOUS	You . . . incautious tread On fire with faithless embers overspread. Francis. Hi
+  429934	INCONSISTENT	Compositions of this nature . . . show that wisdom and virtue are far from being
+  430994	INCROYABLE	The name is said to have been given in allusion not only to the extravagant dres
+  431815	INDEED	The carnal mind is enmity against God; for it is not subject to the law of God, 
+  434509	INDONESIAN	The term Indonesian, introduced by Logan to designate the light- colored non-Mal
+  434802	INDUCTANCE	The unit of inductance is the henry.
+  435249	INDUSTRIAL	Industrial exhibition, a public exhibition of the various industrial products of
+  435357	INDWELLING	-INE -ine (; 104).
+  437371	INFERNO	At each sudden explosion in the inferno below they sprang back from the brink [o
+  439215	INFUSORY	-ING -ing.
+  445276	INSTRUMENTALISM	Instrumentalism views truth as simply the value belonging to certain ideas in so
+  446687	INTENERATE	Fear intenerates the heart. Bp. Hall. So have I seen the little purls of a strea
+  447074	INTERAMBULACRUM	Interambulacrums (. (Zoöl.)
+  448738	INTERMAXILLARY	Of or pertaining to the intermaxillæ. -- n.
+  451161	INTOLERABLE	His insolence is more intolerable Than all the princes in the land beside. Shak.
+  453050	INVENTION	As the search of it [truth] is the duty, so the invention will be the happiness 
+  453149	INVERNESS; INVERNESS CAPE	Robert's wind-blown head and tall form wrapped in an Inverness cape. Mrs. Humphr
+  454465	IODOTHYRIN	It is a very stable compound, and is believed to be active principle in thyroid 
+  454499	IO MOTH	-ION -ion. Etym: [L. -io, acc. -ionem: cf. F. -ion.]
+  456167	IRRESPECTIVE	According to this doctrine, it must be resolved wholly into the absolute, irresp
+  456874	ISCHURY	-ISE -ise
+  456890	ISETHIONIC	-ISH -ish. Etym: [AS. -isc; akin to G. -isch, OHG. -isc, Goth. & Dan. - isk, Gr.
+  457080	ISLET	-ISM -ism. Etym: [F. -isme, or L. -ismus, Gr.
+  458075	ISSUER	-IST -ist. Etym: [Gr. iste.]
+  458362	ITCHY	-ITE -ite. Etym: [From Gr.
+  458528	ITINERATE	-ITIS -i"tis, Etym: [Gr.
+  458593	I'VE	-IVE -ive. Etym: [L. -ivus.]
+  458749	IZARD	-IZE -ize. Etym: [F. -iser, L. -izare, Gr.
+  458785	IZZARD	J
+  460141	JAMBOOREE	A Calcutta-made pony cart had been standing in front of the manager's bungalow w
+  460790	JASPONYX	(min.)
+  461849	JESU	Jesu, give the weary Calm and sweet repose. S. Baring-Gould.
+  462221	JEWISH CALENDAR	Months of the Jewish Year.
+  462323	JEW'S-HARP	which, when placed between the teeth, gives, by means of a bent metal tongue str
+  462386	JIB; JIBB	Jibb. [Cf. Jib a sail, Gybe.] (Chiefly Naut.)
+  462423	JIG	6 (a). -- Jig drilling, Jig filing (Metal Working), a process of drilling or fil
+  462550	JIHAD; JEHAD	[Their] courage in war . . . had not, like that of the Mohammedan dervishes of t
+  464625	JUDGE-MADE	The law of the 13th century was judge-made law in a fuller and more literal sens
+  465761	JUNO	Sweeter than the lids of Juno's eyes. Shak.
+  466610	JYMOLD	K
+  467092	KANGAROO	Kangaroo apple (Bot.), the edible fruit of the Tasmanian plant Solanum aviculare
+  467249	KAROSS	The wants of a native . . . are confined to a kaross (skin cloak) or some pieces
+  467532	KEDGE	[Cf. dial. Sw. keka to tug, to drag one's self slowly forward; or perh. fr. ked,
+  468676	KERN	Founding)
+  469307	KIBOSH	To put the kibosh on, to do for; to dispose of. [Slang]
+  469960	KIN	-KIN -kin (-kin). [Of Low German origin; cf. G. -chen, LG. -- ken.]
+  471048	KISSING STRINGS	One of her ladyship's kissing strings, once pink and fluttering and now faded an
+  473397	KOPJE	The colloqual Dutch pronunciation as here given is the usual one in South Africa
+  474040	KYTOPLASMA	L
+  474094	LAAGER	Wagons . . . can be readily formed into a laager, a camp, by being drawn into a 
+  475083	LACHRYMALS	People go to the theaters to have . . . their risibles and lachrymals set agoing
+  476480	LAGNIAPPE; LAGNAPPE	Lagniappe . . .is something thrown in, gratis, for good measure. Mark Twain.
+  478102	LAND LEAGUE	The Land League, of which Machael Davitt was the founder, originated in Mayo in 
+  479966	LARRIKIN	Mobs of unruly larrikins. Sydney Daily Telegraph.
+  480396	LAST	At last, at the end of a certain period; after delay. "The duke of Savoy felt th
+  481041	LATICLAVE	Antiq.)
+  483213	LAZY	Lazy tongs, a system of jointed bars capable of great extension, originally made
+  487299	LESION	-LESS -less. Etym: [AS. leás loose, false; akin to OS. l loose, false, D. los lo
+  487488	LESTER	-LET -let.Etym: [From two French dim. endings -el (L. -ellus) and -et, as in bra
+  488094	LEUCOMAINE	Chem.)
+  492346	LIKIN	"Likin," which used to be regarded as illegal, as one of the many, "squeezes" im
+  492893	LIMERICK	There was a young lady, Amanda, Whose Ballades Lyriques were quite fin de Siècle
+  493238	LIMP	[Cf. AS. lemphealt lame, OHG. limphen to limp, be weak; perh. akin to E. lame, o
+  493862	LINEN	1.]
+  493932	LINE-UP; LINEUP	-LING -ling. Etym: [AS. -ling.]
+  494243	LINK	The link of brotherhood, by which One common Maker bound me to the kind. Cowper.
+  494351	LINKS	A second links has recently been opened at Prestwick, and another at Troon, on t
+  495344	LIST	Shak.
+  495778	LITERATUS	-LITH; -LITE -lith, -lite.
+  496006	LITHOFELLIC	Chem.)
+  499180	LOGIC	Logic is science of the laws of thought, as that is, of the necessary conditions
+  499386	LOGWOOD	-LOGY -lo*gy. Etym: [Gr. Logic.]
+  500368	LOO	Loo table, a round table adapted for a circle of persons playing loo.
+  500915	LOOSESTRIFE	False loosestrife, a plant of the genus Ludwigia, which includes several species
+  502106	LOUP-GAROU	The superstition of the loup-garou, or werewolf, belongs to the folklore of most
+  505617	LUZ	-LY -ly. Etym: [OE. -lich, AS. -lic, orig. the same word as E. li, a. See Like, 
+  505985	LYMPH NODE	M.
+  506281	M	The letter M came into English from the Greek, through the Latin, the form of th
+  506300	M	M roof (Arch.), a kind of roof formed by the junction of two common roofs with a
+  506457	MACARONI	A paste similarly prepared is largely used as food in Persia, India, and China, 
+  506533	MACAW	Macaw bush (Bot.), a West Indian name for a prickly kind of nightshade (Solanum 
+  507727	MADRAS	A black woman in blue cotton gown, red-and-yellow madras turban . . . crouched a
+  509011	MAHDISM	Mahdism has proved the most shameful and terrible instrument of bloodshed and op
+  509214	MAIDAN	A gallop on the green maidan. M. Crawford.
+  509664	MAIN-GAUCHE	Armor)
+  512635	MANBOTE	Saxon Law)
+  512702	MANCUS	-MANCY -man`cy. Etym: [Gr. -mancie.]
+  515795	MARGARIN	Chem.)
+  515804	MARGARINE	The word margarine shall mean all substances, whether compounds or otherwise, pr
+  518897	MASTIFF	Etym: [Prob. fr. Prov. E. masty, adj., large, n., a great dog, prob. fr. mast fr
+  522349	MECHITARIST	Hist.)
+  525544	MENDEL'S LAW	1 TT : 2 Tt : 1 tt;
+  525977	MENSURATION	-MENT -ment, Etym: [F. -ment, L. -mentum.]
+  526683	MERD	-MERE -mere. Etym: [Gr.
+  529789	METEOROUS	-METER -me"ter. Etym: [L. metrum measure, or the allied Gr. Meter rhythm.]
+  530180	METIER	Not only is it the business of no one to preach the truth but it is the métier o
+  530503	METROTOMY	-METRY -me*try. Etym: [See -meter.]
+  530548	MEUM	Ancestors . . . generally esteemed more renowned for ancient family and high cou
+  531891	MIDGARD; MIDGARTH; MITHGARTHR	meth"gärthr'). [Icel. miðgarðr.] (Teut. Myth.)
+  532525	MILIEU	The intellectual and moral milieu created by multitudes of self- centered, culti
+  533148	MILLI-	Mech., etc.)
+  535257	MIRLITON	Trilby singing "Ben Bolt" into a mirliton was a thing to be remembered, whether 
+  539365	MO	-MO -mo.
+  540639	MOHAMMEDAN CALENDAR	Months of the Mohammedan year.
+  541282	MOLECULAR	Chem.)
+  542552	MONGRELIZE	'MONGST 'Mongst, prep.
+  546640	MORPHOTIC	-MORPHOUS -mor"phous. Etym: [Gr.
+  546770	MORSE CODE	Alphabet
+  552142	MUNICIPALIZE	London people are now determined to centralize and to municipalize such services
+  555763	MYZOSTOMATA	N
+  556287	NAMATION	Eng. & Scots Law)
+  558551	NAVAL	Naval brigade, a body of seamen or marines organized for military service on lan
+  559065	NEAR BEER	Near beer is a term of common currency used to designate all that class of malt 
+  559136	NEAT	'NEATH 'Neath ( or , prep. & adv.
+  560215	NE'ER-DO-WELL	The idle and dissolute ne'er-do-wells of their communities. Harper's Mag.
+  562245	NESS	-NESS -ness (. Etym: [AS. -ness, -nyss, -nys; akin to OS. -nissi, nussi, D. -nis
+  570339	NOUVEAU RICHE; NOUVELLE RICHE	(#), f. Nouvelles riches (#). [F.]
+  571593	NUMERIC; NUMERICAL	2.2. The same in number; hence, identically the same; identical; as, the same nu
+  571953	NURAGHE; NURAGH	The so-called nuraghi, conical monuments with truncated summits, 30- 60 ft. in h
+  572707	NYULA	O
+  573007	OARSMAN	At the prow of the boat, rose one of the oarsmen. Longfellow.
+  573027	OASIS	My one oasis in the dust and drouth Of city life. Tennyson.
+  576432	OCHYMY	-OCK -ock. Etym: [AS. -uc.]
+  577192	ODDMENT	A miscellaneous collection of riddles, charms, gnomic verses, and "oddments" of 
+  577303	ODINISM	Odinism was valor; Christianism was humility, a nobler kind of valor. Carlyle.
+  578904	OHO	-OID -oid. Etym: [Gr. wit: cf.F. -oïde, L. -oïdes.]
+  579167	OKRA	-OL -ol. Etym: [From alcohol.] (Chem.)
+  579964	OLYMPIAD	Antig.)
+  580002	OM	-OMA -o"ma. Etym: [Gr.
+  580433	OMNIUM	Exchange)
+  580842	ONDOYANT	-ONE -one. Etym: [From Gr. -w`nh, signifying, female descendant.] (Chem.)
+  581644	OOSPORANGIUM; OOESPORANGIUM	[NL., fr. Gr. (Bot.)
+  582063	OPEN DOOR	(a) Open or free admission to all; hospitable welcome; free opportunity.
+  583926	OPUS	Opus incertum. Etym: [L.] (Arch.) See under Incertum.
+  583953	OQUASSA	-OR -or. Etym: [L. -or: cf. OF. -or, -ur, -our, F. -eur.]
+  587579	ORVIETAN	-ORY -o*ry. Etym: [L. -orius: cf. F. -oire.]
+  587763	OSCILLATOR	(a) (Elec.)
+  587950	OSCULATORY	Ch.)
+  587969	OSCULUM	-OSE -ose. Etym: [L. -osus: cf. F. -ose. Cf. -ous.]
+  588432	OSTENSORIUM; OSTENSORY	[NL. ostensorium: cf. F. ostensoir. See Ostensible.] (R. C. Ch.)
+  589022	OTHER	It is also used, by ellipsis, with a noun, expressed or understood. To write thi
+  589547	OUR	-OUR -our. Etym: [OF. -our.]
+  589611	OURSELVES	-OUS -ous. Etym: [OF. -ous, us, -os, F. -eux, fr. L. -osus, and -us. Cf. - ose.]
+  591879	OVALBUMIN; OVALBUMEN	Chem.)
+  596349	OXIDATE	Etym: [Cf. f. oxyder. See Oxide.] (Chem.)
+  596961	OZONE PAPER	P.
+  597031	P	See Guide to Pronunciation, §§ 247, 248, and 184-195.
+  597048	PAAGE	Law)
+  597061	PAAS	Paas egg. See Easter egg, under Easter.
+  597271	PACIFIC	Pacific Ocean, the ocean between America and Asia, so called by Magellan, its fi
+  597315	PACIFICO	While we were going through the woods one of the pacificos pointed to a new grav
+  597331	PACIFY	To pacify and settle those countries. Bacon.
+  597344	PACINIAN	Pacinian corpuscles, small oval bodies terminating some of the minute branches o
+  600282	PALMETTO	Royal palmetto, the West Indian Sabal umbraculifera, the trunk of which, when ho
+  600618	PALSGRAVE	Hist.)
+  601979	PANPSYCHISM	Fechner affords a conspicuous instance of the idealistic tendency to mysterize n
+  605395	PARDON; REMISSION	Syn: remission.
+  606851	PARSE	[L. pars a part; pars orationis a part of speech. See Part, n.] (Gram.)
+  615101	PEMBROKE TABLE	The characteristic which gives a table the name of Pembroke consists in the drop
+  616143	PENNY	coins; pence the amount of pennies in value. Etym: [OE. peni, AS. penig, pening,
+  620997	PERPETUAL CALENDAR	PERPETUAL CALENDAR Day of the monthJan. Oct.Apr. July Jan.Sept. Dec.JuneFeb. Mar
+  623862	PETUNE	[See Petunia.] (Agric.)
+  625948	PHLEGETHON	Myth.)
+  628089	PHYLARCH	Antiq.)
+  629251	PICCAGE	Law)
+  630500	PIETIST	Hist.)
+  637318	PLASTERY	-PLASTIC -plas"tic. Etym: [Gr.
+  637422	PLASTRON	-PLASTY -plas"ty. Etym: [Gr.
+  640089	PLOP	The body plopped up, turning on its side. Kipling.
+  640206	PLOUTER	I did not want to plowter about any more. Kipling.
+  640429	PLUCK	[AS. pluccian; akin to LG. & D. plukken, G. pflücken, Icel. plokka, plukka, Dan.
+  642291	POCULIFORM	-POD -pod. Etym: [See Foot.]
+  642322	POD	-PODA -po*da.
+  648929	PORT	Peering in maps for ports and piers and roads. Shak. We are in port if we have T
+  650842	POSTGRADUATE	Most careful writers consider the word graduate to be the proper word to use in 
+  651815	POTELOT	Min.)
+  652865	POUT	2 2
+  653738	PRAEORAL; PRAEPUBIS; PRAESCAPULA; PRAESCUTUM; PRAESTERNUM	Præ*ster"num, n.
+  654062	PRALINE	Bonbons, pralines, . . . saccharine, crystalline substances of all kinds and col
+  655520	PRECOGNOSCE	Law)
+  659255	PRESENTMENT	Mozley & W.
+  659887	PRESTATION	Prestation money, a sum of money paid yearly by archdeacons and other dignitarie
+  661123	PRIAPEAN	Pros.)
+  662779	PRINCIPLE	The soul of man is an active principle. Tillotson.
+  664704	PROCONSUL	Antiq.)
+  670093	PROSPEROUS	A happy passage and a prosperous wind. Denham.
+  671691	PROVENANCE	Their age attested by their provenance and associations. A. H. Keane.
+  674527	PUCKA	It's pukka famine, by the looks of it. Kipling.
+  675140	PUGGRY; PUGGREE	A blue-gray felt hat with a gold puggaree. Kipling.
+  675576	PULMOBRANCHIATA; PULMOBRANCHIATE	& n. (Zoöl.)
+  677089	PUPILLARITY	Law)
+  679321	PUTRESCE	Ordinarily sewage does not putresce until from twenty-four to sixty hours after 
+  681049	PYXIS	Q
+  681595	QUADRIGA	Antiq.)
+  683450	QUASH	[OF. quasser, F. casser, fr. L. cassare to annihilate, annul, fr. cassus empty, 
+  683843	QUEEN	5 5, (Chess)
+  684233	QUERENT	Eng. Law)
+  685504	QUINDECEMVIR	[L., from quindecim fifteen + vir a man.] (Rom. Antiq.)
+  686143	QUIRITES	Antiq.)
+  686867	R	In words derived from the Greek language the letter h is generally written after
+  686956	RABBET	Rabbet joint (Carp.), a joint formed by fitting together rabbeted boards or timb
+  686971	RABBI	Rabbies. [L., fr. Gr. "rabbi`, Heb. rabi my master, from rab master, lord, teach
+  686988	RABBINIC; RABBINICAL	We will not buy your rabbinical fumes. Milton.
+  687052	RABBLE	I saw, I say, come out of London, even unto the presence of the prince, a great 
+  687085	RABBLE	The bishops' carriages were stopped and the prelates themselves rabbled on their
+  687101	RABBLEMENT	And still, as he refused it, the rabblement hooted. Shak.
+  687140	RABID	The rabid flight Of winds that ruin ships. Chapman.
+  687195	RACA	Whosoever shall say to his brother, Raca, shall be in danger of the council. Mat
+  687211	RACCOON	Raccoon dog (Zoöl.), the tanate. -- Raccoon fox (Zoöl.), the cacomixle.
+  691643	RAPID-FIRE; RAPID-FIRING	(a) (Gun.) Firing shots in rapid succession. (b) (Ordnance) Capable of being fir
+  691792	RAPPROCHEMENT	He had witnessed the gradual rapprochement between the papacy and Austria. Wilfr
+  696817	RECHAUFFE	It is merely a réchauffé of ancient philosophies. F. W. H. Myers.
+  696865	RECIDIVISM	The old English system of recognizances, in which the guilty party deposits a su
+  696879	RECIDIVIST	The criminal by passion never becomes a recidivist, it is the social, not the an
+  698922	RECRUDESCE	The general influence . . . which is liable every now and then to recrudesce in 
+  700285	REDHIBITORY	Law)
+  701801	REEVE	[Cf. D. reven. See Reef, n. & v. t.] (Naut.)
+  704863	REGULINE	Metal.)
+  705306	REINDEER	[Formerly written also raindeer, and ranedeer.] (Zool.)
+  712844	RESEAU	(a) (Astron.)
+  717092	RETRAXIT	Law)
+  718446	REVERS	etc.)
+  718825	REVET	Etym: [See Revetment.] (Mil. & Civil Engineering)
+  719819	REZ-DE-CHAUSSEE	Tier above tier of neat apartments rise over the little shops which form the rez
+  721665	RIBWORT	-RIC -ric. Etym: [AS rice kingdom, dominion. See Rich.]
+  724369	RIPLER; RIPPER	Law)
+  725280	ROAD	Now strike your saile, ye jolly mariners, For we be come unto a quiet rode [road
+  730914	ROUT CAKE	Twenty-four little rout cakes that were lying neglected in a plate. Thackeray.
+  731873	RUBIGO	(bot.)
+  735427	RYTINA	S
+  736504	SACRED	Society of the Sacred Heart (R.C. Ch.), a religious order of women, founded in F
+  738553	SALERATUS	Chem.)
+  741425	SANGUINELY	I can not speculate quite so sanguinely as he does. Burke.
+  742063	SAPONUL	Chem.)
+  745038	SAYND	'SBLOOD 'Sblood, interj.
+  747175	SCAVENGING	combustion Engines)
+  747721	SCHISM	Greek schism (Eccl.), the separation of the Greek and Roman churches. -- Great s
+  749700	SCOPATE	-SCOPE -scope (. Etym: [Gr. skopo`s a watcher, spy. See Scope.]
+  752830	SCUMBLE	Etym: [Freq. of scum. sq. root 158.] (Fine Arts)
+  752921	SCUPPER	Scupper hose (Naut.), a pipe of leather, canvas, etc., attached to the mouth of 
+  753328	SCUTTER	A mangy little jackal . . . cocked up his ears and tail, and scuttered across th
+  753575	SDAIN	'SDEATH 'Sdeath, interj. Etym: [Corrupted fr. God's death.]
+  761976	SEMUNCIA	Antiq.)
+  766306	SESTERCE	Antiq.)
+  767954	SEXIVALENT	(hem.)
+  769899	SHAPS	A pair of gorgeous buckskin shaps, embroidered up the sides and adorned with inn
+  772193	SHERIFFALTY; SHERIFFDOM; SHERIFFRY; SHERIFFSHIP; SHERIFFWICK	Sher"iff*wick, n.
+  773038	SHINY	-SHIP -ship. Etym: [OE. -schipe, AS. -scipe; akin to OFries. -skipe, OLG. - skep
+  777851	SIDETRACK	Such a project was, in fact, sidetracked in favor of the census of school childr
+  779528	SILK-STOCKING	[They] will find their levees crowded with silk-stocking gentry, but no yeomanry
+  781474	SINGLE TAX	Whatever may be thought of Henry George's single-tax theory as a whole, there ca
+  781758	SINISTRAD	Zoöl.)
+  785113	SKITTER	The angler, standing in the bow, 'skitters' or skips the spoon over the surface.
+  785123	SKITTER	Some kinds of ducks in lighting strike the water with their tails first, and ski
+  785581	SKYSCRAPER	(a) (Naut.) (1) A skysail of a triangular form. [Rare] (2)
+  790273	SMELT	[Of foreign origin; cf. Sw. smälta, D. smelten, Dan. smelte, Icel. smelta, G. sc
+  791526	SNAIL-PACED	'SNAILS 'Snails, interj.
+  796996	SOMBROUS	-SOME -some (-som).
+  800835	SPACE	[Cf. F. espacer. See Space, n.] (Print.)
+  802543	SPAY	[Cf. Armor. spac'hein, spaza to geld, W. dyspaddu to geld, L. spado a eunuch, Gr
+  806372	SPINDRIFT	The ocean waves are broken up by wind, ultimately producing the storm wrack and 
+  808287	SPLINTER	Splinter bar. (a) A crossbar in a coach, which supports the springs. (b) The bar
+  808729	SPONDEE	(pros.)
+  810834	SPRITEFUL; SPRITEFULLY; SPRITELINESS; SPRITELY	a., etc.
+  814733	STAMEN	Stamina (in the first sense). Etym: [L. stamen the warp, a thread, fiber, akin t
+  815958	STAR	Blazing star, Double star, Multiple star, Shooting star, etc. See under Blazing,
+  819124	STEEVE	[Cf. OD. steve staff, E. stem, n.] (Shipbuilding)
+  820034	STEP-UP	-STER -ster. Etym: [OE. & AS. -estre, -istre.]
+  820053	STERCOBILIN	Chem.)
+  820829	STET	[See Stand.] (Print.)
+  822207	STILTON CHEESE; STILTON	Thus, in the outset he was gastronomic; discussed the dinner from the soup to th
+  826759	STRATEGUS	Antiq.)
+  839739	SUNDOWNER	Sundowners, -- men who loaf about till sunset, and then come in with the demand 
+  843671	SURGE	[Cf. F. surgir to cast anchor, to land. Cf. Surge, n.] (Naut.)
+  848806	SWOUND	'SWOUNDS 'Swounds, interj. Etym: [Cf. Zounds.]
+  850381	SYNCLASTIC	Physics)
+  850554	SYNDACTYL; SYNDACTYLE	Med.)
+  851323	SYNTONIZE	[See Syntony.] (Physics)
+  851824	TA	Used by Chaucer to represent a peculiarity of the Northern dialect.
+  851861	TABARD	In a tabard he [the Plowman] rode upon a mare. Chaucer.
+  851934	TABERNACLE	Dwelling in tabernacles with Isaac and Jacob. Heb. xi. 9.
+  851987	TABERNACLE	He assumed our nature, and tabernacled among us in the flesh. Dr. J. Scott.
+  852007	TABES	Tabes dorsalis (dôr*sa"lis) [NL., tabes of the back], locomotor ataxia; -- somet
+  852032	TABID	In tabid persons, milk is the bset restorative. Arbuthnot.
+  852052	TABLATURE	The chimes of bells are so rarely managed that I went up to that of Sir Nicholas
+  852722	TACKLE	n. Etym: [OE. takel, akin to LG. & D. takel, Dan. takkel, Sw. tackel; perhaps ak
+  853270	TAI	The Tais first appeared in history in Yunnan, and from thence they migrated into
+  853698	TAIPING; TAEPING	Hist.)
+  858690	TEACHE	Works)
+  859138	TEAZE-HOLE	Works)
+  862272	TENDRE	You poor friendless creatures are always having some foolish tendre. Thackeray.
+  862553	TENON	Join.)
+  864361	TERRA INCOGNITA	The enormous tracts lying outside China proper, still almost terræ incognitæ. A.
+  864693	TERRITORIAL WATERS	Perhaps it may be said without impropriety that a state has theoretically the ri
+  865277	TESTAMUR	Universities)
+  867573	THAW	[AS. Þ\'bewian, Þ\'bewan; akin to D. dovijen, G. tauen, thauen (cf. also verdaue
+  867611	THE	obscure before a consonant; 37), definite article. Etym: [AS. the, a later form 
+  867713	THEATIN; THEATINE	Ch.)
+  868452	THEOPHILANTHROPIST	Hist.)
+  869082	THERMANTIDOTE	Will you bring me to book on the mountains, or where the thermantidotes play Kip
+  870109	THIGMOTAXIS	When the movement is away from the touching body, it is negative thigmotaxis; wh
+  877860	TIRWIT	'T IS 'T is.
+  878213	TITIVATE; TITTIVATE	"Come here, an' let me titivate you." He sat down beside her, and submitted to b
+  878340	TITRATE	Etym: [F. titrer, from titre standard, title. See Title, n.] (Chem.)
+  879311	TOHUBOHU	Was ever such a tohubohu of people as there assembles Thuckeray.
+  879832	TOLT	Law)
+  882102	TORAH; TORA	(a) A law; a precept.
+  882785	TORSADE	The crown decked with torsades of pearls. Harper's Mag.
+  883399	TOTAL	Syn: Whole; entire; complete. See Whole.
+  883417	TOTALIS	I look on nothing but totalis. B. Jonson.
+  885879	TRADITOR	Hist.)
+  886065	TRAFFIC MILE	Traffic mile is a term designed to furnish an excuse for the erroneous practice 
+  887731	TRANSFUSE	2 2 (Med.)
+  889924	TRAVOIS	On the plains they will have horses dragging travoises; dogs with travoises, wom
+  890038	TREACHERY	Be ware, ye lords, of their treachery. Chaucer. In the council chamber at Edinbu
+  890910	TREK	One of the motives which induced the Boers of 1836 to trek out of the Colony. Ja
+  890923	TREK	To the north a trek was projected, and some years later was nearly carried out, 
+  893246	TRIGER PROCESS	Mining)
+  894918	TRIQUADRANTAL	Trig.)
+  894948	TRIRECTANGULAR	Trig.)
+  895552	TRIVERBIAL	Antiq.)
+  896199	TRONA	Min.)
+  900219	TUNGSTEN	2 (Min.)
+  900438	TUNNEL	2 2
+  900533	TUQUE	Picturesque fellow with tuques, red sashes, and fur coats. F. Remington.
+  902814	TWANKAY	'T WAS 'T was.
+  903890	TWITTLE-TWATTLE	'TWIXT 'Twixt.
+  904409	TYPAL	-TYPE -type. Etym: [See Type, n.]
+  905060	TZETZE	U
+  907470	UNBIT	Etym: [1st pref. un- + bit.] (Naut.)
+  909407	UNDER	Both Jews and Gentiles . . . are all under sin. Rom. iii. 9. That led the embatt
+  912210	UNEXCEPTIONABLE	Chesterfield is an unexceptionable witness. Macaulay.
+  914615	UNITY	At unity, at one. -- Unity of type. (Biol.) See under Type.
+  920222	UPKEEP	Small outlays for repairs or upkeep of buildings. A. R. Colquhoun.
+  920954	UP-TO-DATE	I must prefer to translate the poet in a manner more congenial if less up-to-dat
+  921550	UREIDE	-URET -u*ret.
+  922011	UROERYTHRIN	Chem.)
+  922030	UROGLAUCIN	Chem.)
+  922874	USURPATION	He contrived their destruction, with the usurpation of the regal dignity upon hi
+  923568	UZEMA	V
+  924892	VALKYRIA	Myth.)
+  924991	VALLUM	Antiq.)
+  925101	VALUE	Ye are all physicians of no value. Job xiii. 4. Ye are of more value than many s
+  925974	VANTBRACE; VANTBRASS	Armor)
+  927858	VEGETABLE	Vegetable leather. (a) (Bot.) A shrubby West Indian spurge (Euphorbia punicea), 
+  931074	VERNAL	Vernal equinox (Astron.), the time when the sun crosses the equator when proceed
+  931823	VERTICILLATE; VERTICILLATED	Zoöl.)
+  932072	VESICULA	Med.)
+  933125	VIBRATOR	of any kind; specif. (a) (Elec.) (1)
+  935477	VIOLET	Corn violet. See under Corn. -- Dame's violet. (Bot.) See Damewort. -- Dogtooth 
+  938832	VOLLEY	Half volley. (a) (Tennis) A return of the ball immediately after is has touched 
+  940584	VYING	W
+  941628	WAIT	To wait on or upon. (a) To attend, as a servant; to perform services for; as, to
+  941813	WAI WU PU	The Tsung-li Yamen, or Foreign Office, created by a decree of January 19, 1861, 
+  942072	WALER	The term originated in India, whither many horses are exported from Australia (m
+  943601	WARBURG'S TINCTURE	-WARD; -WARDS -ward, -wards. Etym: [AS. -weard, -weardes; akin to OS. & OFries. 
+  943619	WARD	Ward penny (O. Eng. Law), money paid to the sheriff or castellan for watching an
+  943791	WARDROOM	-WARDS -wards.
+  944279	WARN	[OE. warnen, warnien, AS. warnian, wearnian, to take heed, to warn; akin to AS. 
+  945021	WASH	1
+  946595	WATER GRASS	(a) A tall march perennial grass (Paspalum dilatatum) of the southern United Sta
+  948574	WAYMENT	-WAYS -ways.
+  948683	WEAK	Weak conjugation (Gram.), the conjugation of weak verbs; -- called also new, or 
+  949769	WEB	Pin and web (Med.), two diseases of the eye, caligo and pterygium; -- sometimes 
+  953485	WHELM	[OE. whelmen to turn over, akin to OE. whelven, AS. whelfan, hwylfan, in , , to 
+  955031	WHIR	[Perhaps of imitative origin; cf. D. hvirre to whirl, and E. hurr, hurry, whirl.
+  958045	WILD	To run wild, to go unrestrained or untamed; to live or untamed; to live or grow 
+  958369	WILL	7 7 (Law)
+  959487	WINDOW	French window (Arch.), a casement window in two folds, usually reaching to the f
+  963744	WOOLD	[D. woelen, bewoelen; akin to G. wuhlen, bewuhlen. *146.] (Naut.)
+  964244	WORK	To work at, to be engaged in or upon; to be employed in. -- To work to windward 
+  967273	WYN; WYNN; WEN	X.
+  967323	X	The form and value of X are from the Latin X, which is from the Greek X, which i
+  967360	XANTHIC	Xanthic acid (Chem.), a heavy, astringent, colorless oil, C2H5O.CS.SH, having a 
+  967448	XANTHOCHROI	The Xanthochroi, or fair whites, . . . are the prevalent inhabitants of Northern
+  968230	XYSTER	Y
+  970337	YIVE	-YL -yl. Etym: [Gr. (Chem.)
+  971240	YUG; YUGA	Cosmog.)
+  971349	Z	also, îz"zêrd)
+  973611	ZUMIC; ZUMOLOGICAL; ZUMOLOGY; ZUMOMETER	etc.

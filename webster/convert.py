@@ -34,6 +34,7 @@ NUMBERED = re.compile(r"^(\d+)\.(?:\s+(.*)|$)")
 SUB_ITEM = re.compile(r"^\(([a-z])\)\s+(.*)")
 FIELD = re.compile(r"^\(([A-Z][^()]{0,28})\)\s*(.*)$")
 POS = re.compile(r"^[,.]?\s*((?:[a-z]{1,6}\.\s*(?:&\s*)?)+)")
+OTHER_FORM = re.compile(r"^,\s*[^,\[(.\s][^,\[(.]*(?=,)")
 FORM_END = re.compile(r"(?:,\s|\.\s*$|\.?\s+(?=(?:n|a|v|adv|prep|conj|interj|pron|p|imp|pl|obs|prefix|vb)\.\s*(?:[a-z]{1,6}\.\s*)*(?:$|\[|Etym:|\())|\s*\[|\s+Etym:|\s*\(|\s*$)")
 
 POS_NOTES = {
@@ -138,6 +139,9 @@ def parse_headline(entry: Entry, headline: str) -> None:
         entry.failure = f"headline form {squash(form)!r} does not match the headword"
         return
     rest = headline[m.start():] if m else ""
+    # further spellings of the headword come before the part of speech: "Banc, Ban"cus, Bank, n."
+    while not POS.match(rest) and (other := OTHER_FORM.match(rest)):
+        rest = rest[other.end():]
     pos = POS.match(rest)
     if pos:
         entry.pos = squash(pos.group(1)).rstrip(".").replace("v.t", "v. t").replace("v.i", "v. i").replace("p.p", "p. p")
