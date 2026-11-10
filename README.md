@@ -1,6 +1,8 @@
+<img src="assets/fumika.png" alt="Fumika" width="128" height="128">
+
 # fumika-dictionaries
 
-Starter dictionaries for the [Fumika](https://github.com/albertalrisa) EPUB reader, converted to the Yomitan format
+Starter dictionaries for the [Fumika](https://fumika.alrisa.jp/) EPUB reader, converted to the Yomitan format
 (format 3, structured content). Each folder holds one dictionary's converter, tests, source licence and README.
 
 | Folder | Dictionary | Source licence |
