@@ -37,6 +37,9 @@ POS = re.compile(r"^[,.]?\s*((?:[a-z]{1,6}\.\s*(?:&\s*)?)+)")
 OTHER_FORM = re.compile(r"^,\s*[^,\[(.\s][^,\[(.]*(?=,)")
 FORM_END = re.compile(r"(?:,\s|\.\s*$|\.?\s+(?=(?:n|a|v|adv|prep|conj|interj|pron|p|imp|pl|obs|prefix|vb)\.\s*(?:[a-z]{1,6}\.\s*)*(?:$|\[|Etym:|\())|\s*\[|\s+Etym:|\s*\(|\s*$)")
 
+# Raised whenever a change to this converter alters its output, so installed copies are offered the new one.
+CONVERTER_RELEASE = 2
+
 POS_NOTES = {
     "n": "noun", "a": "adjective", "v. t": "transitive verb", "v. i": "intransitive verb", "v": "verb",
     "adv": "adverb", "n. pl": "plural noun", "n. sing": "singular noun", "p. p": "past participle",
@@ -287,7 +290,8 @@ def numbering_irregular(entry: Entry) -> bool:
 # ---- Yomitan rows ------------------------------------------------------------------------------------------------
 
 def pos_tag(pos: str) -> str:
-    return pos.replace(" ", "")
+    """The abbreviation as Webster prints it (`v. t.`), without the spaces that would split it into two tags."""
+    return pos.replace(" ", "") + "."
 
 
 def sense_item(sense: Sense) -> dict:
@@ -383,7 +387,7 @@ def convert(source_path: Path, out_dir: Path) -> tuple[Path, Path, int, str]:
     meta = Meta(
         file_name=FILE_NAME,
         title="Webster's Revised Unabridged Dictionary (1913)",
-        revision=revision,
+        revision=f"{revision}.{CONVERTER_RELEASE}",
         author="alrisa (conversion); Noah Webster, G. & C. Merriam Co. (text)",
         attribution=(
             "Webster's Revised Unabridged Dictionary, 1913 edition, public domain, from Project Gutenberg ebook "

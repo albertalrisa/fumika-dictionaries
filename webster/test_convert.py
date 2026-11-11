@@ -108,7 +108,8 @@ class FixtureTest(unittest.TestCase):
     def test_rows_and_names(self) -> None:
         rows, tags = convert.build(self.entries)
         self.assertEqual([r.term for r in rows], ["bank", "bank", "abatis", "abattis", "aeon"])
-        self.assertEqual({t.name: t.notes for t in tags}["v.t"], "transitive verb")
+        self.assertEqual({t.name: t.notes for t in tags}["v.t."], "transitive verb")
+        self.assertIn("n.", {t.name for t in tags})
         names = set()
         for r in rows:
             names |= content_names(r.definitions)
@@ -129,7 +130,8 @@ class FixtureTest(unittest.TestCase):
             with zipfile.ZipFile(zip_path) as z:
                 index = json.loads(z.read("index.json"))
             self.assertEqual(index["format"], 3)
-            self.assertEqual(index["revision"], "2025-07-06")
+            # the converter's own release follows the source's date, so a fixed conversion reaches installed copies
+            self.assertEqual(index["revision"], "2025-07-06.2")
             self.assertEqual(index["downloadUrl"], "https://github.com/albertalrisa/fumika-dictionaries/releases/latest/download/webster1913.zip")
             self.assertTrue((Path(tmp) / "out" / "webster1913-parse-report.txt").exists())
 
